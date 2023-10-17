@@ -1,0 +1,9 @@
+<application>
+  <component name="Atom Icon Selections Config">
+    <option name="selectedFolderOpenAssociations">
+      <SelectedAssociations>
+        <option name="iconType" value="FOLDER_OPEN" />
+      </SelectedAssociations>
+    </option>
+  </component>
+</application>

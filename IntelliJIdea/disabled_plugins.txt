@@ -1,0 +1,3 @@
+com.intellij.kubernetes
+org.nik.presentation-assistant
+wiesmak.rnbwdshpb

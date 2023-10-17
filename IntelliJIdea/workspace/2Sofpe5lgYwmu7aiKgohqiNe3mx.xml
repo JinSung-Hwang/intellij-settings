@@ -1,0 +1,826 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="deleo-library-common" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dto/carrier/ShopInfoDto.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/ShopCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/service/bandtrass/HsCodeNavigation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="439">
+              <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="14" lastUsed="1694691428462" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="2" lastUsed="1689827655133" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="8" lastUsed="1696389238916" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="130" lastUsed="1697520706444" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1689818038547" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="1" lastUsed="1689827634763" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1689827657248" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.944</find>
+      <find>spring</find>
+      <find>setUpdatedOn</find>
+      <find>is_manual_updatable</find>
+      <find>build</find>
+      <find>PrintLabelUrlRequestDto</find>
+      <find>tracking</find>
+      <find>print</find>
+      <find>LabelStatus</find>
+      <find>tracking.status.fail</find>
+      <find>newsletter</find>
+      <find>trackingstatus</find>
+      <find>version</find>
+      <find>CustomerType</find>
+      <find>labelstatus</find>
+      <find>library</find>
+      <find>common</find>
+      <find>CarrierConstant</find>
+      <find>converter</find>
+      <find>trackingconverter</find>
+      <find>TrackingStatusConverter</find>
+      <find>redisCountryRepository</find>
+      <find>redis</find>
+      <find>CountryUtil</find>
+      <find>parxl</find>
+      <find>error</find>
+      <find>amt</find>
+      <find />
+      <find>shop</find>
+      <find>HsCodeNavigation</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dto/request/common</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dto/carrier</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/deleo/common/converter/impl</dir>
+      <dir>$PROJECT_DIR$/src</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/deleo/common/utils</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/deleo/common/redis</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/deleo/common/config</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/deleo/common</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/deleo/common/service/bandtrass</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/service/mail/MailService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/service/mail/impl/MmsMailService.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/embedded/CreatedAndUpdated.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/TrackingStatus.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dto/request/common/PrintLabelUrlRequestDto.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/carrier/LabelStatus.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/LabelStatus.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dialect/DeleoPostgreSQLDialect.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/DeliveryCompanyCode.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dto/request/carrier/CompareShipmentRequest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dto/carrier/ShippingRequestItemDto.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/ShopCode.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="2" lastUsage="1689827655133" />
+    </language>
+    <language id="Groovy">
+      <summary usageCount="8" lastUsage="1696389238916" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="130" lastUsage="1697520706444" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1689818038547" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="1" lastUsage="1689827634763" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1689827657248" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common/code}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common/dto}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common/dto}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common/dto/carrier}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common/service}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common/service}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/java/co/kr/deleo/common/service/bandtrass}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-library-common" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-library-common/src/main/resources/google}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.deleo-library-common [build]" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="157951000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.16269532" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3302583" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.34501845" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" />
+      <window_info anchor="bottom" id="Dependencies" order="6" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="10" />
+      <window_info anchor="bottom" id="Spring" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Services" order="13" weight="0.3304829" />
+      <window_info anchor="bottom" id="SonarLint" order="14" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="PlantUML" order="1" weight="0.32994792" />
+      <window_info anchor="right" id="Endpoints" order="2" weight="0.3298828" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3298828" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.37714845" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Translation.Wordbook" order="7" side_tool="true" />
+      <window_info anchor="right" id="Notifications" order="8" weight="0.2502604" />
+      <unified_weights bottom="0.34501845" left="0.16269532" right="0.37714845" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Gradle</value>
+      <value>Project</value>
+      <value>Database</value>
+      <value>Endpoints</value>
+      <value>Version Control</value>
+      <value>PlantUML</value>
+      <value>Notifications</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="100" key="#Project_Structure" timestamp="1689839611045">
+      <screen x="0" y="25" width="1920" height="995" />
+    </state>
+    <state x="448" y="100" key="#Project_Structure/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689839611045" />
+    <state x="769" y="219" key="#com.intellij.ide.util.MemberChooser" timestamp="1689818187574">
+      <screen x="0" y="25" width="1920" height="995" />
+    </state>
+    <state x="769" y="219" key="#com.intellij.ide.util.MemberChooser/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689818187574" />
+    <state x="100" y="125" width="2360" height="1155" key="DiffContextDialog" timestamp="1694691502227">
+      <screen x="0" y="25" width="2560" height="1355" />
+    </state>
+    <state x="100" y="125" width="2360" height="1155" key="DiffContextDialog/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694691502227" />
+    <state width="2516" height="439" key="GridCell.Tab.0.bottom" timestamp="1697522457644">
+      <screen x="0" y="25" width="2560" height="1356" />
+    </state>
+    <state width="1878" height="300" key="GridCell.Tab.0.bottom/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1692343897115" />
+    <state width="1878" height="300" key="GridCell.Tab.0.bottom/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1690960433656" />
+    <state width="2518" height="300" key="GridCell.Tab.0.bottom/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693188218950" />
+    <state width="2516" height="439" key="GridCell.Tab.0.bottom/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1696405068773" />
+    <state width="2516" height="439" key="GridCell.Tab.0.bottom/0.25.2560.1356/2560.25.2560.1415@0.25.2560.1356" timestamp="1697522457644" />
+    <state width="1686" height="300" key="GridCell.Tab.0.bottom/0.38.1728.1018@0.38.1728.1018" timestamp="1692595753109" />
+    <state width="1878" height="300" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1692344776837" />
+    <state width="1878" height="300" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1690865082819" />
+    <state width="2518" height="300" key="GridCell.Tab.0.bottom/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693562498829" />
+    <state width="2516" height="439" key="GridCell.Tab.0.bottom/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1695721860307" />
+    <state width="2516" height="439" key="GridCell.Tab.0.center" timestamp="1697522457644">
+      <screen x="0" y="25" width="2560" height="1356" />
+    </state>
+    <state width="1878" height="300" key="GridCell.Tab.0.center/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1692343897114" />
+    <state width="1878" height="300" key="GridCell.Tab.0.center/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1690960433656" />
+    <state width="2518" height="300" key="GridCell.Tab.0.center/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693188218950" />
+    <state width="2516" height="439" key="GridCell.Tab.0.center/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1696405068773" />
+    <state width="2516" height="439" key="GridCell.Tab.0.center/0.25.2560.1356/2560.25.2560.1415@0.25.2560.1356" timestamp="1697522457644" />
+    <state width="1686" height="300" key="GridCell.Tab.0.center/0.38.1728.1018@0.38.1728.1018" timestamp="1692595753109" />
+    <state width="1878" height="300" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1692344776837" />
+    <state width="1878" height="300" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1690865082819" />
+    <state width="2518" height="300" key="GridCell.Tab.0.center/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693562498829" />
+    <state width="2516" height="439" key="GridCell.Tab.0.center/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1695721860307" />
+    <state width="2516" height="439" key="GridCell.Tab.0.left" timestamp="1697522457644">
+      <screen x="0" y="25" width="2560" height="1356" />
+    </state>
+    <state width="1878" height="300" key="GridCell.Tab.0.left/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1692343897114" />
+    <state width="1878" height="300" key="GridCell.Tab.0.left/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1690960433655" />
+    <state width="2518" height="300" key="GridCell.Tab.0.left/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693188218950" />
+    <state width="2516" height="439" key="GridCell.Tab.0.left/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1696405068773" />
+    <state width="2516" height="439" key="GridCell.Tab.0.left/0.25.2560.1356/2560.25.2560.1415@0.25.2560.1356" timestamp="1697522457644" />
+    <state width="1686" height="300" key="GridCell.Tab.0.left/0.38.1728.1018@0.38.1728.1018" timestamp="1692595753109" />
+    <state width="1878" height="300" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1692344776837" />
+    <state width="1878" height="300" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1690865082819" />
+    <state width="2518" height="300" key="GridCell.Tab.0.left/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693562498829" />
+    <state width="2516" height="439" key="GridCell.Tab.0.left/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1695721860307" />
+    <state width="2516" height="439" key="GridCell.Tab.0.right" timestamp="1697522457644">
+      <screen x="0" y="25" width="2560" height="1356" />
+    </state>
+    <state width="1878" height="300" key="GridCell.Tab.0.right/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1692343897114" />
+    <state width="1878" height="300" key="GridCell.Tab.0.right/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1690960433656" />
+    <state width="2518" height="300" key="GridCell.Tab.0.right/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693188218950" />
+    <state width="2516" height="439" key="GridCell.Tab.0.right/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1696405068773" />
+    <state width="2516" height="439" key="GridCell.Tab.0.right/0.25.2560.1356/2560.25.2560.1415@0.25.2560.1356" timestamp="1697522457644" />
+    <state width="1686" height="300" key="GridCell.Tab.0.right/0.38.1728.1018@0.38.1728.1018" timestamp="1692595753109" />
+    <state width="1878" height="300" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1692344776837" />
+    <state width="1878" height="300" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1690865082819" />
+    <state width="2518" height="300" key="GridCell.Tab.0.right/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693562498829" />
+    <state width="2516" height="439" key="GridCell.Tab.0.right/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1695721860307" />
+    <state x="1090" y="431" key="RollbackChangesDialog" timestamp="1693287371545">
+      <screen x="0" y="25" width="2560" height="1354" />
+    </state>
+    <state x="1090" y="431" key="RollbackChangesDialog/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693287371545" />
+    <state x="625" y="254" key="SettingsEditor" timestamp="1692362948624">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="469" y="186" key="SettingsEditor/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1692343884094" />
+    <state x="2389" y="196" key="SettingsEditor/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1692343009928" />
+    <state x="625" y="254" key="SettingsEditor/0.25.2560.1415/-2560.25.2560.1354@0.25.2560.1415" timestamp="1692362948624" />
+    <state x="759" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1694348374304">
+      <screen x="0" y="25" width="1920" height="995" />
+    </state>
+    <state x="759" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1093.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1694348374304" />
+    <state x="759" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689919761864" />
+    <state x="987" y="209" width="1042" height="821" key="find.popup" timestamp="1696494546082">
+      <screen x="0" y="25" width="2560" height="1355" />
+    </state>
+    <state x="987" y="209" width="783" height="652" key="find.popup/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1692863514515" />
+    <state x="987" y="209" width="1042" height="821" key="find.popup/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1696494546082" />
+    <state x="666" y="176" width="587" height="491" key="find.popup/0.38.1728.1018@0.38.1728.1018" timestamp="1693144800168" />
+    <state x="740" y="160" width="653" height="481" key="find.popup/1093.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1694347946780" />
+    <state x="740" y="160" width="587" height="478" key="find.popup/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1692345106615" />
+    <state x="740" y="160" width="587" height="478" key="find.popup/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689827641762" />
+    <state x="987" y="209" width="870" height="654" key="find.popup/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693273769328" />
+    <state x="987" y="209" width="1042" height="821" key="find.popup/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1696389262617" />
+    <state x="834" y="323" width="993" height="933" key="search.everywhere.popup" timestamp="1694590704178">
+      <screen x="0" y="25" width="2560" height="1355" />
+    </state>
+    <state x="625" y="244" width="670" height="683" key="search.everywhere.popup/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1692320250722" />
+    <state x="834" y="323" width="993" height="932" key="search.everywhere.popup/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1692866220747" />
+    <state x="834" y="323" width="993" height="933" key="search.everywhere.popup/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1693979493629" />
+    <state x="563" y="262" width="670" height="700" key="search.everywhere.popup/0.38.1728.1018@0.38.1728.1018" timestamp="1692595738585" />
+    <state x="625" y="244" width="670" height="683" key="search.everywhere.popup/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691983354877" />
+    <state x="625" y="244" width="670" height="683" key="search.everywhere.popup/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1690855215962" />
+    <state x="834" y="323" width="993" height="932" key="search.everywhere.popup/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693537130655" />
+    <state x="834" y="323" width="993" height="933" key="search.everywhere.popup/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694590704178" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/DeliverySettlementCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/IsYn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/KafkaTransactionStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/ItemType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#570#571#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/LogType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/Language.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#538#539#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/ExternalCenter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/FsuStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/Incoterms.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/converter/impl/InboundTrackingStatusConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/TrackingStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding>
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/converter/impl/CouponReductionAmtTypeConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/converter/impl/AddressTypeConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/BaseEnumCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/converter/impl/CustomerTypeConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/CustomerType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="19" column="12" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/AddressType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../deleo-carrier-rs/src/main/java/co/kr/deleo/carrier/modules/common/application/ShipmentPrintService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/LabelStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/MallIntegrationType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.4.20.Final/31c3ae06f131ceec368a770596881102b1d0ac5e/hibernate-core-5.4.20.Final-sources.jar!/org/hibernate/type/StandardBasicTypes.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.4.20.Final/31c3ae06f131ceec368a770596881102b1d0ac5e/hibernate-core-5.4.20.Final-sources.jar!/org/hibernate/dialect/PostgreSQL9Dialect.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.4.20.Final/31c3ae06f131ceec368a770596881102b1d0ac5e/hibernate-core-5.4.20.Final-sources.jar!/org/hibernate/dialect/PostgreSQL91Dialect.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.4.20.Final/31c3ae06f131ceec368a770596881102b1d0ac5e/hibernate-core-5.4.20.Final-sources.jar!/org/hibernate/dialect/PostgreSQL92Dialect.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.4.20.Final/31c3ae06f131ceec368a770596881102b1d0ac5e/hibernate-core-5.4.20.Final-sources.jar!/org/hibernate/dialect/PostgreSQL93Dialect.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.4.20.Final/31c3ae06f131ceec368a770596881102b1d0ac5e/hibernate-core-5.4.20.Final-sources.jar!/org/hibernate/dialect/PostgreSQL94Dialect.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.4.20.Final/31c3ae06f131ceec368a770596881102b1d0ac5e/hibernate-core-5.4.20.Final-sources.jar!/org/hibernate/dialect/PostgreSQL95Dialect.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.4.20.Final/31c3ae06f131ceec368a770596881102b1d0ac5e/hibernate-core-5.4.20.Final-sources.jar!/org/hibernate/dialect/PostgreSQL10Dialect.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.4.20.Final/31c3ae06f131ceec368a770596881102b1d0ac5e/hibernate-core-5.4.20.Final-sources.jar!/org/hibernate/dialect/function/VarArgsSQLFunction.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dialect/DeleoPostgreSQLDialect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.hibernate/hibernate-core/5.4.20.Final/31c3ae06f131ceec368a770596881102b1d0ac5e/hibernate-core-5.4.20.Final-sources.jar!/org/hibernate/dialect/function/StandardSQLFunction.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/DelYn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/converter/impl/TrackingStatusConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.12.23/1b6cb2703b0fa5f753b0762a65bcb91425e4781/libphonenumber-8.12.23-sources.jar!/com/google/i18n/phonenumbers/PhoneNumberUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="3084" column="21" selection-start-line="3084" selection-start-column="21" selection-end-line="3084" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/semeru-11.0.18/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="1625" column="17" selection-start-line="1625" selection-start-column="17" selection-end-line="1625" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/utils/PhoneUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="992">
+          <caret line="56" column="43" selection-start-line="56" selection-start-column="43" selection-end-line="56" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/redis/service/RedisCommonService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/redis/repository/RedisCountryRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dto/ui/CountryDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/utils/AmazonS3FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/utils/CountryUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/config/CommonConfigurer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="966">
+          <caret line="126" column="24" selection-start-line="126" selection-start-column="24" selection-end-line="126" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/NewsletterType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/DeliveryCompanyCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="33" column="96" selection-start-line="33" selection-start-column="96" selection-end-line="33" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.integration/spring-integration-core/5.5.2/2b59e19f11979743faf204e6bd59d15b885a96d/spring-integration-core-5.5.2-sources.jar!/org/springframework/integration/support/ErrorMessageUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#2093#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dto/carrier/ShippingRequestItemDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="860">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dto/request/carrier/CompareShipmentRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="148" column="48" selection-start-line="148" selection-start-column="48" selection-end-line="148" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/code/ShopCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/dto/carrier/ShopInfoDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/common/service/bandtrass/HsCodeNavigation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|deleo-library-common</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

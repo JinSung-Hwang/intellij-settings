@@ -1,0 +1,278 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="deleo-wing-ui" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="DIFF">
+      <summary usageCount="3" lastUsed="1690951033722" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="3" lastUsed="1690956111024" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="4" lastUsed="1691558096701" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1690950698545" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1691558105202" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/build.gradle" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/wing/infra/interceptor/ViewInterceptor.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="3" lastUsage="1690956111025" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="4" lastUsage="1691558096701" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1690950698545" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1691558105202" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deleo-wing-ui" type="47feb1d3:ProjectViewModuleNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deleo-wing-ui" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deleo-wing-ui" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="deleo-wing-ui" type="47feb1d3:ProjectViewModuleNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="deleo-wing-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Project/platform-dev/deleo-wing-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Project/platform-dev/deleo-wing-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src/main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Project/platform-dev/deleo-wing-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="src/main" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.Application (1)" />
+      <element setting="Spring Boot.Application" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4489000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.24765626" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.59099525" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33033174" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.33015075" />
+      <window_info anchor="bottom" id="Dependencies" order="6" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="10" />
+      <window_info anchor="bottom" id="Spring" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Services" order="13" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="PlantUML" order="1" />
+      <window_info anchor="right" id="Endpoints" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" visible="true" weight="0.32994792" />
+      <window_info anchor="right" id="Notifications" order="5" weight="0.25" />
+      <unified_weights bottom="0.33033174" left="0.24765626" right="0.32994792" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Version Control</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2368" y="130" key="#Project_Structure" timestamp="1691558102686">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2368" y="130" key="#Project_Structure/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558102686" />
+    <state width="1878" height="320" key="GridCell.Tab.0.bottom" timestamp="1691558643529">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.0.bottom/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558643529" />
+    <state width="1878" height="320" key="GridCell.Tab.0.center" timestamp="1691558643529">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.0.center/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558643529" />
+    <state width="1878" height="320" key="GridCell.Tab.0.left" timestamp="1691558643529">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.0.left/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558643529" />
+    <state width="1878" height="320" key="GridCell.Tab.0.right" timestamp="1691558643529">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.0.right/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558643529" />
+    <state width="1878" height="320" key="GridCell.Tab.1.bottom" timestamp="1691558643530">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.1.bottom/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558643530" />
+    <state width="1878" height="320" key="GridCell.Tab.1.center" timestamp="1691558643529">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.1.center/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558643529" />
+    <state width="1878" height="320" key="GridCell.Tab.1.left" timestamp="1691558643529">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.1.left/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558643529" />
+    <state width="1878" height="320" key="GridCell.Tab.1.right" timestamp="1691558643529">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.1.right/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558643529" />
+    <state x="2513" y="256" key="NewModule_or_Project.wizard" timestamp="1691558607027">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2513" y="256" key="NewModule_or_Project.wizard/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558607027" />
+    <state x="2368" y="130" key="SettingsEditor" timestamp="1691558618188">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2368" y="130" key="SettingsEditor/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558618188" />
+    <state x="2480" y="242" width="800" height="620" key="new project wizard" timestamp="1691558595969">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2480" y="242" width="800" height="620" key="new project wizard/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691558595969" />
+    <state x="2545" y="259" key="search.everywhere.popup" timestamp="1690951238155">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2545" y="259" key="search.everywhere.popup/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1690951238155" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="240">
+            <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="117" column="18" selection-start-line="117" selection-start-column="18" selection-end-line="117" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/interceptor/ViewInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="123" column="45" selection-start-line="122" selection-start-column="47" selection-end-line="123" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>cert</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

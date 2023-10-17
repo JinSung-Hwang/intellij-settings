@@ -1,0 +1,463 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="springbatch" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="1" lastUsed="1688460190271" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="3" lastUsed="1688459843280" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="71" lastUsed="1688461169457" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="4" lastUsed="1688384665714" />
+    </fileType>
+    <fileType name="SQL">
+      <summary usageCount="7" lastUsed="1688461065896" />
+    </fileType>
+    <fileType name="Shell Script">
+      <summary usageCount="1" lastUsed="1688459840575" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="4" lastUsed="1688459826722" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>schema-`</find>
+      <find>post</find>
+      <find>postgresql</find>
+      <find>postg</find>
+      <find>simpleStep2</find>
+      <find>simpleJob</find>
+      <find>simpleStep1</find>
+      <find>simplejob</find>
+      <find>schema-</find>
+      <find>jdbc</find>
+      <find>starter-web</find>
+      <find>person</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/batch/springbatch/job</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/job/SImpleJobConfiguration.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+      <option value="$PROJECT_DIR$/build.gradle" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/postgresSQLRunner.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/job/StepNextConfitionalJobConfiguration.java" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/job/SimpleJobConfiguration.java" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/job/StepNextJobConfiguration.java" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/job/StepNextConditionalJobConfiguration.java" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/job/ScopeJobConfiguration.java" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/simple/Person.java" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/simple/User.java" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/simple/migration." />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/simple/UserItemProcessor.java" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/SpringbatchApplication.java" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/simple/BatchConfig.java" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/simple/MyScheduler.java" />
+      <option value="$PROJECT_DIR$/src/main/java/batch/springbatch/job/DeciderJobConfiguration.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Groovy">
+      <summary usageCount="3" lastUsage="1688459843280" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="71" lastUsage="1688461169457" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="4" lastUsage="1688384665714" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="7" lastUsage="1688461065896" />
+    </language>
+    <language id="Shell Script">
+      <summary usageCount="1" lastUsage="1688459840575" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="4" lastUsage="1688459826722" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.SpringbatchApplication" />
+      <element setting="Spring Boot.postgres" />
+      <element setting="Spring Boot.postgresql" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.09031909" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Failed" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/bin/zsh" />
+          <arg value="--login" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28535000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" sideWeight="0.49947697" side_tool="true" weight="0.18255208" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.500523" weight="0.1825" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33033174" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33033174" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40047395" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40047395" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.33033174" />
+      <window_info anchor="bottom" id="Dependencies" order="6" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.33033174" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="10" weight="0.33033174" />
+      <window_info anchor="bottom" id="Spring" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.33033174" />
+      <window_info anchor="bottom" id="Services" order="13" weight="0.5693467" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="PlantUML" order="1" />
+      <window_info anchor="right" id="Endpoints" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" />
+      <window_info anchor="right" id="Notifications" order="5" weight="0.25" />
+      <unified_weights bottom="0.5693467" left="0.1825" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Services</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Version Control</value>
+      <value>Debug</value>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>TODO</value>
+      <value>Find</value>
+      <value>Bookmarks</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2368" y="130" key="#Project_Structure" timestamp="1688295717450">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2368" y="130" key="#Project_Structure/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688295717450" />
+    <state x="2721" y="315" key="#Run/Debug_Configuration_Templates" timestamp="1688387120704">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2721" y="315" key="#Run/Debug_Configuration_Templates/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688387120704" />
+    <state x="2378" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1688461166214">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2360" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688310077416" />
+    <state x="2378" y="242" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688461166214" />
+    <state x="2689" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1688460456654">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2689" y="249" key="#com.intellij.ide.util.MemberChooser/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688460456654" />
+    <state x="2661" y="407" width="506" height="230" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1688460132546">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2661" y="407" width="506" height="230" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688460132546" />
+    <state width="1681" height="572" key="GridCell.Tab.0.bottom" timestamp="1688461351377">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1491" height="320" key="GridCell.Tab.0.bottom/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688310498510" />
+    <state width="1681" height="572" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688461351377" />
+    <state width="1681" height="572" key="GridCell.Tab.0.center" timestamp="1688461351376">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1491" height="320" key="GridCell.Tab.0.center/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688310498510" />
+    <state width="1681" height="572" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688461351376" />
+    <state width="1681" height="572" key="GridCell.Tab.0.left" timestamp="1688461351376">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1491" height="320" key="GridCell.Tab.0.left/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688310498509" />
+    <state width="1681" height="572" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688461351376" />
+    <state width="1681" height="572" key="GridCell.Tab.0.right" timestamp="1688461351376">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1491" height="320" key="GridCell.Tab.0.right/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688310498510" />
+    <state width="1681" height="572" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688461351376" />
+    <state width="1681" height="572" key="GridCell.Tab.1.bottom" timestamp="1688461351377">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1491" height="320" key="GridCell.Tab.1.bottom/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688310498510" />
+    <state width="1681" height="572" key="GridCell.Tab.1.bottom/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688461351377" />
+    <state width="1681" height="572" key="GridCell.Tab.1.center" timestamp="1688461351377">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1491" height="320" key="GridCell.Tab.1.center/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688310498510" />
+    <state width="1681" height="572" key="GridCell.Tab.1.center/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688461351377" />
+    <state width="1681" height="572" key="GridCell.Tab.1.left" timestamp="1688461351377">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1491" height="320" key="GridCell.Tab.1.left/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688310498510" />
+    <state width="1681" height="572" key="GridCell.Tab.1.left/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688461351377" />
+    <state width="1681" height="572" key="GridCell.Tab.1.right" timestamp="1688461351377">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1491" height="320" key="GridCell.Tab.1.right/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688310498510" />
+    <state width="1681" height="572" key="GridCell.Tab.1.right/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688461351377" />
+    <state x="2389" y="196" key="SettingsEditor" timestamp="1688301216933">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2389" y="196" key="SettingsEditor/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688301216933" />
+    <state x="2420" y="160" width="1207" height="806" key="find.popup" timestamp="1688458240779">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2420" y="160" width="1207" height="806" key="find.popup/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688302231864" />
+    <state x="2420" y="160" width="1207" height="806" key="find.popup/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688458240779" />
+    <state x="2545" y="259" width="670" height="683" key="search.everywhere.popup" timestamp="1688446365679">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2545" y="259" width="670" height="683" key="search.everywhere.popup/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688310135323" />
+    <state x="2545" y="259" width="670" height="683" key="search.everywhere.popup/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1688446365679" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.batch/spring-batch-core/4.3.8/c3a96ce91586648f98a01a6adc359c12e3b2846c/spring-batch-core-4.3.8.jar!/org/springframework/batch/core/schema-postgresql.sql" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/batch/springbatch/SpringbatchApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.28/9bfef13043bb35cb50cea6589d2fb4bad8fce5b3/lombok-1.18.28-sources.jar!/lombok/Value.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/job/ScopeJobConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/job/SimpleJobConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/job/StepNextConditionalJobConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/job/StepNextJobConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradlew">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="366">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/simple/migration.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/simple/BatchConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/simple/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/simple/UserItemProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/job/DeciderJobConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/postgresSQLRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/simple/MyScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/batch/springbatch/SpringbatchApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI" />
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: org.springframework.batch:spring-batch-core:4.3.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

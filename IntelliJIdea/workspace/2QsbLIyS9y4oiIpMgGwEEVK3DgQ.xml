@@ -1,0 +1,279 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="spring-jpa-first-with-yhkim" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="2" lastUsed="1686145587535" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="5" lastUsed="1686226659407" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="3" lastUsed="1686226843444" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="10" lastUsed="1686737662022" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="6" lastUsed="1695300157036" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/jpabook/jpashop/Hello.java" />
+      <option value="$PROJECT_DIR$/src/main/java/jpabook/jpashop/JpashopApplication.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/templates/hello.html" />
+      <option value="$PROJECT_DIR$/src/main/java/jpabook/jpashop/HelloController.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/static/index.html" />
+      <option value="$PROJECT_DIR$/build.gradle" />
+      <option value="$PROJECT_DIR$/readme.md" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="2" lastUsage="1686145587535" />
+    </language>
+    <language id="Groovy">
+      <summary usageCount="5" lastUsage="1686226659407" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="3" lastUsage="1686226843444" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="10" lastUsage="1686737662022" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="6" lastUsage="1695300157036" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.JpashopApplication" />
+      <element setting="Gradle.JpashopApplicationTests.contextLoads" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JpashopApplicationTests_contextLoads - 2023.06.07 at 22h 42m 00s.xml">
+      <configuration name="JpashopApplicationTests.contextLoads" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5681000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.08964844" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33033174" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" />
+      <window_info anchor="bottom" id="Dependencies" order="6" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="10" />
+      <window_info anchor="bottom" id="Spring" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Services" order="13" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="PlantUML" order="1" />
+      <window_info anchor="right" id="Endpoints" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Gradle" order="4" visible="true" weight="0.22285156" />
+      <window_info anchor="right" id="Key Promoter X" order="5" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="6" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.33033174" left="0.08964844" right="0.22285156" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2368" y="130" key="#Project_Structure" timestamp="1686226180188">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2368" y="130" key="#Project_Structure/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686226180188" />
+    <state width="1878" height="320" key="GridCell.Tab.0.bottom" timestamp="1686234313836">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.0.bottom/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686226468131" />
+    <state width="1878" height="320" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686234313836" />
+    <state width="1878" height="320" key="GridCell.Tab.0.center" timestamp="1686234313836">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.0.center/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686226468131" />
+    <state width="1878" height="320" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686234313836" />
+    <state width="1878" height="320" key="GridCell.Tab.0.left" timestamp="1686234313836">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.0.left/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686226468130" />
+    <state width="1878" height="320" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686234313836" />
+    <state width="1878" height="320" key="GridCell.Tab.0.right" timestamp="1686234313836">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.0.right/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686226468131" />
+    <state width="1878" height="320" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686234313836" />
+    <state width="1878" height="320" key="GridCell.Tab.1.bottom" timestamp="1686234313836">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.1.bottom/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686226468131" />
+    <state width="1878" height="320" key="GridCell.Tab.1.bottom/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686234313836" />
+    <state width="1878" height="320" key="GridCell.Tab.1.center" timestamp="1686234313836">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.1.center/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686226468131" />
+    <state width="1878" height="320" key="GridCell.Tab.1.center/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686234313836" />
+    <state width="1878" height="320" key="GridCell.Tab.1.left" timestamp="1686234313836">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.1.left/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686226468131" />
+    <state width="1878" height="320" key="GridCell.Tab.1.left/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686234313836" />
+    <state width="1878" height="320" key="GridCell.Tab.1.right" timestamp="1686234313836">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1878" height="320" key="GridCell.Tab.1.right/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686226468131" />
+    <state width="1878" height="320" key="GridCell.Tab.1.right/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686234313836" />
+    <state x="2389" y="196" key="SettingsEditor" timestamp="1686145436732">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2389" y="196" key="SettingsEditor/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686145436732" />
+    <state x="563" y="264" width="603" height="660" key="search.everywhere.popup" timestamp="1686987364713">
+      <screen x="0" y="38" width="1728" height="1019" />
+    </state>
+    <state x="563" y="264" width="603" height="660" key="search.everywhere.popup/0.38.1728.1019@0.38.1728.1019" timestamp="1686987364713" />
+    <state x="2545" y="259" width="670" height="683" key="search.everywhere.popup/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686145477367" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/jpabook/jpashop/JpashopApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HELP.md" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jpabook/jpashop/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jpabook/jpashop/JpashopApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jpabook/jpashop/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="1000">
+            <caret line="50" selection-start-line="50" selection-end-line="50" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>main|jpashop</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

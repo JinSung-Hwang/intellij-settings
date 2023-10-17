@@ -1,0 +1,8 @@
+###
+POST http://localhost:8011/admin/newsletter
+
+###
+POST http://localhost:8011/admin/newsletter
+
+###
+GET http://localhost:8061/carrier/shipping/label/invoiceurl

@@ -1,0 +1,207 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="today-i-learn" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="1" lastUsed="1686994782709" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="1" lastUsed="1692366271395" />
+    </fileType>
+    <fileType name="Dockerfile">
+      <summary usageCount="1" lastUsed="1689435292648" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="3" lastUsed="1690011724169" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="15" lastUsed="1692709532972" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/java/live-study/main.test" />
+      <option value="$PROJECT_DIR$/java/live-study/main.java" />
+      <option value="$PROJECT_DIR$/java/live-study/3-week.md" />
+      <option value="$PROJECT_DIR$/Dockerfile" />
+      <option value="$PROJECT_DIR$/git/branch-strategy.md" />
+      <option value="$PROJECT_DIR$/spring/toby-spring/02장-TEST.md" />
+      <option value="$PROJECT_DIR$/spring/토비의-스프링부트-3.1/04장-예외.md" />
+      <option value="$PROJECT_DIR$/spring/토비의-스프링부트-3.1/02장-테스트.md" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="1" lastUsage="1689435292648" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="3" lastUsage="1690011724169" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="15" lastUsage="1692709532972" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="today-i-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="today-i-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn/spring}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="today-i-learn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn/spring}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn/spring/토비의-스프링부트-3.1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29576000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.10097656" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.31646973" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.32976365" />
+      <window_info anchor="bottom" id="Dependencies" order="11" />
+      <window_info anchor="right" id="Gradle" weight="0.3304398" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="PlantUML" order="1" />
+      <window_info anchor="right" id="Endpoints" order="2" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Notifications" order="4" weight="0.25" />
+      <unified_weights bottom="0.32976365" left="0.10097656" right="0.3304398" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="305" y="126" width="2104" height="1160" key="CommitChangelistDialog2" timestamp="1692366306015">
+      <screen x="0" y="25" width="2560" height="1415" />
+    </state>
+    <state x="305" y="126" width="2104" height="1160" key="CommitChangelistDialog2/0.25.2560.1415/-2560.25.2560.1354@0.25.2560.1415" timestamp="1692366306015" />
+    <state x="452" y="110" key="CommitChangelistDialog2/0.38.1728.1019@0.38.1728.1019" timestamp="1686988068635" />
+    <state x="2679" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1689438059733">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2679" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689438059733" />
+    <state x="504" y="248" width="720" height="620" key="new project wizard" timestamp="1690011804069">
+      <screen x="0" y="38" width="1728" height="1019" />
+    </state>
+    <state x="504" y="248" width="720" height="620" key="new project wizard/0.38.1728.1019@0.38.1728.1019" timestamp="1690011804069" />
+    <state x="2480" y="242" width="800" height="620" key="new project wizard/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689435309608" />
+    <state x="2545" y="259" width="670" height="683" key="search.everywhere.popup" timestamp="1691660273936">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2545" y="259" width="670" height="683" key="search.everywhere.popup/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@1920.25.1920.1055" timestamp="1691660273936" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/live-study/2-week.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="490">
+            <caret line="24" column="49" selection-start-line="20" selection-end-line="25" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/live-study/3-week.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="731">
+            <caret line="162" selection-start-line="162" selection-end-line="162" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile" />
+    <entry file="file://$PROJECT_DIR$/git/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/java/live-study/main.java" />
+    <entry file="file://$PROJECT_DIR$/git/branch-strategy.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="180">
+            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/spring/토비의-스프링부트-3.1/02장-테스트.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="365">
+            <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/토비의-스프링부트-3.1/04장-예외.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="546">
+            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

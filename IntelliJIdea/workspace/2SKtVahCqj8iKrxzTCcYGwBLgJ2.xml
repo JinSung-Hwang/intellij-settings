@@ -1,0 +1,1028 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="bookmarks">
+          <BookmarkState>
+            <attributes>
+              <entry key="url" value="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/common/ImageResolveController.java" />
+              <entry key="line" value="22" />
+            </attributes>
+            <option name="description" value="boolean isNotTestMail = (newsletterId != null &amp;&amp; memberId != null);" />
+            <option name="provider" value="com.intellij.ide.bookmark.providers.LineBookmarkProvider" />
+          </BookmarkState>
+        </option>
+        <option name="name" value="deleo-wing-ui" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="13" lastUsed="1693978477970" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="4" lastUsed="1691637763239" />
+    </fileType>
+    <fileType name="Dockerfile">
+      <summary usageCount="3" lastUsed="1691565526704" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="8" lastUsed="1693978812188" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="2" lastUsed="1693978433088" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="117" lastUsed="1694424884475" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1688907125214" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="10" lastUsed="1694417115397" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/mob</find>
+      <find>settleExternalClient</find>
+      <find>internalclient</find>
+      <find>getCustomOauth2User</find>
+      <find>search</find>
+      <find>external</find>
+      <find>internal</find>
+      <find>oauthresttemplate</find>
+      <find>keycloak</find>
+      <find>oauth</find>
+      <find>up</find>
+      <find>weight</find>
+      <find>fly</find>
+      <find>create</find>
+      <find>update</find>
+      <find>i</find>
+      <find>image</find>
+      <find>library</find>
+      <find>admin</find>
+      <find>java</find>
+      <find>port</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/wing/modules/address</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/wing/modules/common</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/wing/modules/settle</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/wing</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/wing/infra/config/RestTemplateConfig.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/wing/modules/common/ImageResolveController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/wing/infra/interceptor/ViewInterceptor.java" />
+      <option value="$PROJECT_DIR$/build.gradle" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/wing/modules/newsletter/dto/NewsletterDetailResponse.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/wing/modules/newsletter/NewsletterController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/wing/modules/newsletter/NewsletterService.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="3" lastUsage="1691565526704" />
+    </language>
+    <language id="Groovy">
+      <summary usageCount="8" lastUsage="1693978812188" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="2" lastUsage="1693978433088" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="117" lastUsage="1694424884475" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1688907125214" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="10" lastUsage="1694417115397" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr/wing}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr/wing}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr/wing/modules}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr/wing}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr/wing/modules}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr/wing/modules/newsletter}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="deleo-wing-ui" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="~/Project/platform-dev/deleo-wing-ui" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.Application (1)" />
+      <element setting="Spring Boot.Application" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/bin/zsh" />
+          <arg value="--login" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="158633000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" weight="0.12753907" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.13496093" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3303887" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.38339484" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.33250883" />
+      <window_info anchor="bottom" id="Profiler" order="4" weight="0.33033174" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.33033174" />
+      <window_info anchor="bottom" id="Dependencies" order="6" weight="0.33033174" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.33033174" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="10" weight="0.3304829" />
+      <window_info anchor="bottom" id="Spring" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.33033174" />
+      <window_info anchor="bottom" id="Services" order="13" weight="0.33015075" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" weight="0.32994792" />
+      <window_info anchor="right" id="PlantUML" order="1" weight="0.32994792" />
+      <window_info anchor="right" id="Endpoints" order="2" weight="0.3298828" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3298828" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.17832032" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="5" weight="0.3298828" />
+      <window_info anchor="right" id="Notifications" order="6" weight="0.25019532" />
+      <unified_weights bottom="0.3303887" left="0.13496093" right="0.17832032" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.13098958" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33015075" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3834123" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4005025" />
+      <window_info anchor="bottom" id="Profiler" order="4" weight="0.33033174" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.33033174" />
+      <window_info anchor="bottom" id="Dependencies" order="6" weight="0.33033174" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.33033174" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="10" weight="0.33015075" />
+      <window_info anchor="bottom" id="Spring" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.33033174" />
+      <window_info anchor="bottom" id="Services" order="13" weight="0.33015075" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" weight="0.32994792" />
+      <window_info anchor="right" id="PlantUML" order="1" weight="0.32994792" />
+      <window_info anchor="right" id="Endpoints" order="2" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32994792" />
+      <window_info anchor="right" id="Gradle" order="4" weight="0.32994792" />
+      <window_info anchor="right" id="Notifications" order="5" weight="0.2502604" />
+      <unified_weights bottom="0.3834123" left="0.13098958" right="0.32994792" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Debug</value>
+      <value>Gradle</value>
+      <value>Run</value>
+      <value>Endpoints</value>
+      <value>Notifications</value>
+      <value>github.copilotToolWindow</value>
+      <value>Database</value>
+      <value>Problems View</value>
+      <value>Bookmarks</value>
+      <value>Build</value>
+      <value>JSON Formatter</value>
+      <value>PlantUML</value>
+      <value>Services</value>
+      <value>Dependencies</value>
+      <value>TODO</value>
+      <value>Terminal</value>
+      <value>Profiler</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="124" key="#Project_Structure" timestamp="1691565557546">
+      <screen x="0" y="25" width="1920" height="994" />
+    </state>
+    <state x="448" y="124" key="#Project_Structure/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691565557546" />
+    <state x="2368" y="130" key="#Project_Structure/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691559602302" />
+    <state x="2368" y="130" key="#Project_Structure/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558136608" />
+    <state x="440" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1691566327847">
+      <screen x="0" y="25" width="1920" height="994" />
+    </state>
+    <state x="440" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566327847" />
+    <state x="2559" y="335" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1691559695407">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2559" y="335" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691559695407" />
+    <state x="697" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1689558881847">
+      <screen x="0" y="25" width="1920" height="995" />
+    </state>
+    <state x="697" y="315" key="#com.intellij.ide.util.TreeClassChooserDialog/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689558881847" />
+    <state x="723" y="230" key="#xdebugger.evaluate" timestamp="1693970541914">
+      <screen x="0" y="25" width="1920" height="994" />
+    </state>
+    <state x="723" y="230" key="#xdebugger.evaluate/0.25.1920.994@0.25.1920.994" timestamp="1693970541914" />
+    <state width="509" height="117" key="DebuggerActiveHint" timestamp="1689319086583">
+      <screen x="0" y="25" width="1920" height="995" />
+    </state>
+    <state width="509" height="117" key="DebuggerActiveHint/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689319086583" />
+    <state width="2516" height="442" key="GridCell.Tab.0.bottom" timestamp="1694427901850">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.0.bottom/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1878" height="376" key="GridCell.Tab.0.bottom/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691560039939" />
+    <state width="1876" height="367" key="GridCell.Tab.0.bottom/0.25.1920.994@0.25.1920.994" timestamp="1693971038424" />
+    <state width="1878" height="370" key="GridCell.Tab.0.bottom/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.0.bottom/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.0.bottom/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.0.bottom/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.0.bottom/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915717106" />
+    <state width="1878" height="394" key="GridCell.Tab.0.bottom/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688912304010" />
+    <state width="1878" height="367" key="GridCell.Tab.0.bottom/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="353" key="GridCell.Tab.0.bottom/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689488641459" />
+    <state width="1878" height="353" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729840" />
+    <state width="1878" height="353" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689822813374" />
+    <state width="1878" height="394" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.0.bottom/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023460" />
+    <state width="2516" height="367" key="GridCell.Tab.0.bottom/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694143493211" />
+    <state width="2516" height="442" key="GridCell.Tab.0.bottom/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901850" />
+    <state width="2516" height="442" key="GridCell.Tab.0.center" timestamp="1694427901849">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.0.center/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1878" height="376" key="GridCell.Tab.0.center/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691560039939" />
+    <state width="1876" height="367" key="GridCell.Tab.0.center/0.25.1920.994@0.25.1920.994" timestamp="1693971038424" />
+    <state width="1878" height="370" key="GridCell.Tab.0.center/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.0.center/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.0.center/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.0.center/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.0.center/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915717106" />
+    <state width="1878" height="394" key="GridCell.Tab.0.center/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688912304010" />
+    <state width="1878" height="367" key="GridCell.Tab.0.center/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="353" key="GridCell.Tab.0.center/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689488641459" />
+    <state width="1878" height="353" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729840" />
+    <state width="1878" height="353" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689822813374" />
+    <state width="1878" height="394" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.0.center/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023459" />
+    <state width="2516" height="367" key="GridCell.Tab.0.center/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694143493211" />
+    <state width="2516" height="442" key="GridCell.Tab.0.center/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901849" />
+    <state width="2516" height="442" key="GridCell.Tab.0.left" timestamp="1694427901849">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.0.left/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1878" height="376" key="GridCell.Tab.0.left/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691560039939" />
+    <state width="1876" height="367" key="GridCell.Tab.0.left/0.25.1920.994@0.25.1920.994" timestamp="1693971038423" />
+    <state width="1878" height="370" key="GridCell.Tab.0.left/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.0.left/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.0.left/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.0.left/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.0.left/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915717106" />
+    <state width="1878" height="394" key="GridCell.Tab.0.left/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688912304010" />
+    <state width="1878" height="367" key="GridCell.Tab.0.left/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253077" />
+    <state width="1878" height="353" key="GridCell.Tab.0.left/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689488641458" />
+    <state width="1878" height="353" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729840" />
+    <state width="1878" height="353" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689822813373" />
+    <state width="1878" height="394" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.0.left/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023459" />
+    <state width="2516" height="367" key="GridCell.Tab.0.left/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694143493211" />
+    <state width="2516" height="442" key="GridCell.Tab.0.left/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901849" />
+    <state width="2516" height="442" key="GridCell.Tab.0.right" timestamp="1694427901849">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.0.right/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1878" height="376" key="GridCell.Tab.0.right/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691560039939" />
+    <state width="1876" height="367" key="GridCell.Tab.0.right/0.25.1920.994@0.25.1920.994" timestamp="1693971038424" />
+    <state width="1878" height="370" key="GridCell.Tab.0.right/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.0.right/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.0.right/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.0.right/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.0.right/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915717106" />
+    <state width="1878" height="394" key="GridCell.Tab.0.right/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688912304010" />
+    <state width="1878" height="367" key="GridCell.Tab.0.right/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="353" key="GridCell.Tab.0.right/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689488641459" />
+    <state width="1878" height="353" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729840" />
+    <state width="1878" height="353" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689822813374" />
+    <state width="1878" height="394" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.0.right/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023460" />
+    <state width="2516" height="367" key="GridCell.Tab.0.right/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694143493211" />
+    <state width="2516" height="442" key="GridCell.Tab.0.right/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901849" />
+    <state width="2516" height="442" key="GridCell.Tab.1.bottom" timestamp="1694427901850">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.1.bottom/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1878" height="376" key="GridCell.Tab.1.bottom/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691560039939" />
+    <state width="1876" height="367" key="GridCell.Tab.1.bottom/0.25.1920.994@0.25.1920.994" timestamp="1693971053703" />
+    <state width="1878" height="370" key="GridCell.Tab.1.bottom/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.1.bottom/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.1.bottom/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.1.bottom/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.1.bottom/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915698329" />
+    <state width="1878" height="367" key="GridCell.Tab.1.bottom/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="353" key="GridCell.Tab.1.bottom/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689488641459" />
+    <state width="1878" height="353" key="GridCell.Tab.1.bottom/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729840" />
+    <state width="1878" height="353" key="GridCell.Tab.1.bottom/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689822813374" />
+    <state width="1878" height="394" key="GridCell.Tab.1.bottom/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.1.bottom/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023460" />
+    <state width="2516" height="367" key="GridCell.Tab.1.bottom/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694421153190" />
+    <state width="2516" height="442" key="GridCell.Tab.1.bottom/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901850" />
+    <state width="2516" height="442" key="GridCell.Tab.1.center" timestamp="1694427901850">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.1.center/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1878" height="376" key="GridCell.Tab.1.center/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691560039939" />
+    <state width="1876" height="367" key="GridCell.Tab.1.center/0.25.1920.994@0.25.1920.994" timestamp="1693971053703" />
+    <state width="1878" height="370" key="GridCell.Tab.1.center/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.1.center/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.1.center/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.1.center/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.1.center/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915698329" />
+    <state width="1878" height="367" key="GridCell.Tab.1.center/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="353" key="GridCell.Tab.1.center/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689488641459" />
+    <state width="1878" height="353" key="GridCell.Tab.1.center/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729840" />
+    <state width="1878" height="353" key="GridCell.Tab.1.center/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689822813374" />
+    <state width="1878" height="394" key="GridCell.Tab.1.center/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.1.center/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023460" />
+    <state width="2516" height="367" key="GridCell.Tab.1.center/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694421153190" />
+    <state width="2516" height="442" key="GridCell.Tab.1.center/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901850" />
+    <state width="2516" height="442" key="GridCell.Tab.1.left" timestamp="1694427901850">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.1.left/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1878" height="376" key="GridCell.Tab.1.left/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691560039939" />
+    <state width="1876" height="367" key="GridCell.Tab.1.left/0.25.1920.994@0.25.1920.994" timestamp="1693971053703" />
+    <state width="1878" height="370" key="GridCell.Tab.1.left/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.1.left/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.1.left/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.1.left/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.1.left/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915698329" />
+    <state width="1878" height="367" key="GridCell.Tab.1.left/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="353" key="GridCell.Tab.1.left/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689488641459" />
+    <state width="1878" height="353" key="GridCell.Tab.1.left/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729840" />
+    <state width="1878" height="353" key="GridCell.Tab.1.left/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689822813374" />
+    <state width="1878" height="394" key="GridCell.Tab.1.left/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.1.left/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023460" />
+    <state width="2516" height="367" key="GridCell.Tab.1.left/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694421153190" />
+    <state width="2516" height="442" key="GridCell.Tab.1.left/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901850" />
+    <state width="2516" height="442" key="GridCell.Tab.1.right" timestamp="1694427901850">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.1.right/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1878" height="376" key="GridCell.Tab.1.right/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691560039939" />
+    <state width="1876" height="367" key="GridCell.Tab.1.right/0.25.1920.994@0.25.1920.994" timestamp="1693971053703" />
+    <state width="1878" height="370" key="GridCell.Tab.1.right/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.1.right/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.1.right/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.1.right/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.1.right/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915698329" />
+    <state width="1878" height="367" key="GridCell.Tab.1.right/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="353" key="GridCell.Tab.1.right/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689488641459" />
+    <state width="1878" height="353" key="GridCell.Tab.1.right/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729840" />
+    <state width="1878" height="353" key="GridCell.Tab.1.right/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689822813374" />
+    <state width="1878" height="394" key="GridCell.Tab.1.right/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.1.right/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023460" />
+    <state width="2516" height="367" key="GridCell.Tab.1.right/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694421153190" />
+    <state width="2516" height="442" key="GridCell.Tab.1.right/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901850" />
+    <state width="2516" height="442" key="GridCell.Tab.2.bottom" timestamp="1694427901850">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.2.bottom/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1876" height="367" key="GridCell.Tab.2.bottom/0.25.1920.994@0.25.1920.994" timestamp="1693971038366" />
+    <state width="1878" height="370" key="GridCell.Tab.2.bottom/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.2.bottom/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.2.bottom/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.2.bottom/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.2.bottom/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915661009" />
+    <state width="1878" height="367" key="GridCell.Tab.2.bottom/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="370" key="GridCell.Tab.2.bottom/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689486934726" />
+    <state width="1878" height="367" key="GridCell.Tab.2.bottom/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729831" />
+    <state width="1878" height="370" key="GridCell.Tab.2.bottom/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689757157474" />
+    <state width="1878" height="394" key="GridCell.Tab.2.bottom/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.2.bottom/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023460" />
+    <state width="2516" height="367" key="GridCell.Tab.2.bottom/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694143493212" />
+    <state width="2516" height="442" key="GridCell.Tab.2.bottom/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901850" />
+    <state width="2516" height="442" key="GridCell.Tab.2.center" timestamp="1694427901850">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.2.center/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1876" height="367" key="GridCell.Tab.2.center/0.25.1920.994@0.25.1920.994" timestamp="1693971038366" />
+    <state width="1878" height="370" key="GridCell.Tab.2.center/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.2.center/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.2.center/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.2.center/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.2.center/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915661009" />
+    <state width="1878" height="367" key="GridCell.Tab.2.center/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="370" key="GridCell.Tab.2.center/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689486934726" />
+    <state width="1878" height="367" key="GridCell.Tab.2.center/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729831" />
+    <state width="1878" height="370" key="GridCell.Tab.2.center/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689757157474" />
+    <state width="1878" height="394" key="GridCell.Tab.2.center/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.2.center/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023460" />
+    <state width="2516" height="367" key="GridCell.Tab.2.center/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694143493211" />
+    <state width="2516" height="442" key="GridCell.Tab.2.center/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901850" />
+    <state width="2516" height="442" key="GridCell.Tab.2.left" timestamp="1694427901850">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.2.left/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1876" height="367" key="GridCell.Tab.2.left/0.25.1920.994@0.25.1920.994" timestamp="1693971038366" />
+    <state width="1878" height="370" key="GridCell.Tab.2.left/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.2.left/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.2.left/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.2.left/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.2.left/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915661009" />
+    <state width="1878" height="367" key="GridCell.Tab.2.left/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="370" key="GridCell.Tab.2.left/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689486934726" />
+    <state width="1878" height="367" key="GridCell.Tab.2.left/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729831" />
+    <state width="1878" height="370" key="GridCell.Tab.2.left/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689757157474" />
+    <state width="1878" height="394" key="GridCell.Tab.2.left/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.2.left/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023460" />
+    <state width="2516" height="367" key="GridCell.Tab.2.left/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694143493211" />
+    <state width="2516" height="442" key="GridCell.Tab.2.left/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901850" />
+    <state width="2516" height="442" key="GridCell.Tab.2.right" timestamp="1694427901850">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1878" height="370" key="GridCell.Tab.2.right/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566423331" />
+    <state width="1876" height="367" key="GridCell.Tab.2.right/0.25.1920.994@0.25.1920.994" timestamp="1693971038366" />
+    <state width="1878" height="370" key="GridCell.Tab.2.right/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689074265647" />
+    <state width="1684" height="367" key="GridCell.Tab.2.right/0.25.1920.995@0.25.1920.995" timestamp="1694062250238" />
+    <state width="2516" height="367" key="GridCell.Tab.2.right/0.25.2560.1354/2560.25.2560.1415@0.25.2560.1354" timestamp="1693977917787" />
+    <state width="2516" height="367" key="GridCell.Tab.2.right/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1694417313334" />
+    <state width="1878" height="370" key="GridCell.Tab.2.right/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1688915661009" />
+    <state width="1878" height="367" key="GridCell.Tab.2.right/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="370" key="GridCell.Tab.2.right/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689486934726" />
+    <state width="1878" height="367" key="GridCell.Tab.2.right/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729831" />
+    <state width="1878" height="370" key="GridCell.Tab.2.right/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689757157474" />
+    <state width="1878" height="394" key="GridCell.Tab.2.right/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558741461" />
+    <state width="2516" height="510" key="GridCell.Tab.2.right/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693914023460" />
+    <state width="2516" height="367" key="GridCell.Tab.2.right/2560.25.2560.1415/0.25.2560.1355@0.25.2560.1355" timestamp="1694143493211" />
+    <state width="2516" height="442" key="GridCell.Tab.2.right/2560.25.2560.1415/0.25.2560.1355@2560.25.2560.1415" timestamp="1694427901850" />
+    <state width="1878" height="367" key="GridCell.Tab.3.bottom" timestamp="1691713729831">
+      <screen x="0" y="25" width="1920" height="994" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.3.bottom/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="367" key="GridCell.Tab.3.bottom/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729831" />
+    <state width="1878" height="367" key="GridCell.Tab.3.center" timestamp="1691713729831">
+      <screen x="0" y="25" width="1920" height="994" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.3.center/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="367" key="GridCell.Tab.3.center/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729831" />
+    <state width="1878" height="367" key="GridCell.Tab.3.left" timestamp="1691713729831">
+      <screen x="0" y="25" width="1920" height="994" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.3.left/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="367" key="GridCell.Tab.3.left/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729831" />
+    <state width="1878" height="367" key="GridCell.Tab.3.right" timestamp="1691713729831">
+      <screen x="0" y="25" width="1920" height="994" />
+    </state>
+    <state width="1878" height="367" key="GridCell.Tab.3.right/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691654253078" />
+    <state width="1878" height="367" key="GridCell.Tab.3.right/1920.25.1920.1055/0.25.1920.994@0.25.1920.994" timestamp="1691713729831" />
+    <state x="868" y="446" key="IDE.errors.dialog" timestamp="1693978824334">
+      <screen x="0" y="25" width="2560" height="1355" />
+    </state>
+    <state x="868" y="446" key="IDE.errors.dialog/0.25.2560.1355/2560.25.2560.1415@0.25.2560.1355" timestamp="1693978824334" />
+    <state x="2513" y="231" key="NewModule_or_Project.wizard" timestamp="1691559081429">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2513" y="231" key="NewModule_or_Project.wizard/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691559081429" />
+    <state x="597" y="128" key="SettingsEditor" timestamp="1693905123634">
+      <screen x="0" y="25" width="2560" height="1354" />
+    </state>
+    <state x="2368" y="105" key="SettingsEditor/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691559908035" />
+    <state x="448" y="100" key="SettingsEditor/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689061071237" />
+    <state x="448" y="100" key="SettingsEditor/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689822068463" />
+    <state x="2368" y="105" key="SettingsEditor/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689557451785" />
+    <state x="597" y="128" key="SettingsEditor/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693905123634" />
+    <state width="500" height="604" key="SwitcherDM" timestamp="1693905656051">
+      <screen x="0" y="25" width="2560" height="1354" />
+    </state>
+    <state width="500" height="604" key="SwitcherDM/2560.25.2560.1415/0.25.2560.1354@0.25.2560.1354" timestamp="1693905656051" />
+    <state x="2020" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1689558614044">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2020" y="125" width="1720" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558614044" />
+    <state x="759" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1689325654897">
+      <screen x="0" y="25" width="1920" height="995" />
+    </state>
+    <state x="759" y="443" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689325654897" />
+    <state x="2660" y="168" width="965" height="722" key="find.popup" timestamp="1689558724745">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="740" y="160" width="965" height="680" key="find.popup/0.25.1920.995/1920.25.1920.1055@0.25.1920.995" timestamp="1689061900943" />
+    <state x="2660" y="168" width="965" height="722" key="find.popup/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689558724745" />
+    <state x="2480" y="223" width="800" height="620" key="new project wizard" timestamp="1691559008829">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2480" y="223" width="800" height="620" key="new project wizard/0.25.1920.994/1920.25.1920.1055@1920.25.1920.1055" timestamp="1691559008829" />
+    <state x="560" y="212" width="800" height="620" key="new project wizard/1920.25.1920.1055/0.25.1920.995@0.25.1920.995" timestamp="1689315427598" />
+    <state x="625" y="246" width="670" height="645" key="search.everywhere.popup" timestamp="1691566043095">
+      <screen x="0" y="25" width="1920" height="994" />
+    </state>
+    <state x="625" y="246" width="670" height="645" key="search.everywhere.popup/0.25.1920.994/1920.25.1920.1055@0.25.1920.994" timestamp="1691566043095" />
+    <state x="625" y="246" width="670" height="645" key="search.everywhere.popup/0.25.1920.995@0.25.1920.995" timestamp="1689756279421" />
+    <state x="2545" y="259" width="670" height="683" key="search.everywhere.popup/1059.1118.1728.1079/0.25.1920.995/1920.25.1920.1055@1920.25.1920.1055" timestamp="1688907160240" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>response</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>adminInternalClient.get(NEWSLETTER_PATH + newsletterId, ResponseDto.class, null);</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>StringUtils.equals(memberId, null)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>memberId == null</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>memberId</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/common/IOSLoginController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../deleo-library-common/build/libs/deleo-library-common-plain.jar!/co/kr/deleo/common/utils/SecurityUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="807">
+          <caret line="116" selection-start-line="116" selection-end-line="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/settle/PromotionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.keycloak/keycloak-spring-security-adapter/11.0.0/486458cdeafb65607776de2714ed4111337129cf/keycloak-spring-security-adapter-11.0.0-sources.jar!/org/keycloak/adapters/springsecurity/client/KeycloakRestTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../deleo-library-common/build/libs/deleo-library-common-plain.jar!/co/kr/deleo/common/config/Oauth2RestTemplateConfigurer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/config/RestTemplateConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="40" selection-start-line="28" selection-start-column="40" selection-end-line="28" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#oauth2ClientInterceptor#0;class#RestTemplateConfig#0" />
+            <element signature="method#adminInternalClient#0;class#RestTemplateConfig#0" />
+            <element signature="method#omsInternalClient#0;class#RestTemplateConfig#0" />
+            <element signature="method#carrierInternalClient#0;class#RestTemplateConfig#0" />
+            <element signature="method#wmsInternalClient#0;class#RestTemplateConfig#0" />
+            <element signature="method#settleInternalClient#0;class#RestTemplateConfig#0" />
+            <element signature="docComment;method#deleoAdminRestTemplate#0;class#RestTemplateConfig#0" />
+            <element signature="method#omsExternalRestTemplate#0;class#RestTemplateConfig#0" />
+            <element signature="method#deleoCarrierRestTemplate#0;class#RestTemplateConfig#0" />
+            <element signature="method#wmsExternalRestTemplate#0;class#RestTemplateConfig#0" />
+            <element signature="method#deleoPaymentRestTemplate#0;class#RestTemplateConfig#0" />
+            <element signature="method#settleExternalRestTemplate#0;class#RestTemplateConfig#0" />
+            <element signature="method#adminExternalClient#0;class#RestTemplateConfig#0" />
+            <element signature="method#omsExternalClient#0;class#RestTemplateConfig#0" />
+            <element signature="method#carrierExternalClient#0;class#RestTemplateConfig#0" />
+            <element signature="method#wmsExternalClient#0;class#RestTemplateConfig#0" />
+            <element signature="method#paymentExternalClient#0;class#RestTemplateConfig#0" />
+            <element signature="method#settleExternalClient#0;class#RestTemplateConfig#0" />
+            <element signature="method#mmsApi#0;class#RestTemplateConfig#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/common/ViewController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-529">
+          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../deleo-library-common/build/libs/deleo-library-common-plain.jar!/co/kr/deleo/common/aspect/InboundApiLoggingAspect.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="103" column="4" selection-start-line="100" selection-start-column="44" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-aop/5.3.9/ed6d1fab324a9e058b3cf6c20df68332f2246aba/spring-aop-5.3.9-sources.jar!/org/springframework/aop/framework/CglibAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3551">
+          <caret line="752" selection-start-line="752" selection-end-line="752" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.cloud/spring-cloud-stream/3.1.3/d93742d3b2a104492768e4751743c8c04f006db3/spring-cloud-stream-3.1.3-sources.jar!/org/springframework/cloud/stream/binder/AbstractMessageChannelBinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cert/src/Main.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.3.9/dd365f90e54b923185d8b24ea2c134f2db58e8b1/spring-core-5.3.9-sources.jar!/org/springframework/cglib/proxy/MethodProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="220" selection-start-line="220" selection-end-line="220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/config/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="39" column="29" selection-start-line="39" selection-start-column="29" selection-end-line="39" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/interceptor/ViewInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="55" column="61" selection-start-line="55" selection-start-column="61" selection-end-line="55" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/config/CommonConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/common/ImageResolveService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/address/AddressController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/address/AddressService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="35" column="40" selection-start-line="35" selection-start-column="40" selection-end-line="35" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/common/ImageResolveController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/semeru-11.0.18/Contents/Home/lib/src.zip!/java.base/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="2998" column="23" selection-start-line="2998" selection-start-column="23" selection-end-line="2998" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/moduleADScript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="81" column="83" selection-start-line="81" selection-start-column="83" selection-end-line="81" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/newsletter/dto/NewsletterDetailResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="43" selection-end-line="17" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../deleo-library-common/build/libs/deleo-library-common-plain.jar!/co/kr/deleo/common/dto/common/ResponseDto.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../deleo-library-common/build/libs/deleo-library-common-plain.jar!/co/kr/deleo/common/client/InternalClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="95" column="68" selection-start-line="95" selection-start-column="68" selection-end-line="95" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/member/MemberService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="319" column="8" selection-start-line="319" selection-start-column="8" selection-end-line="319" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/member/MemberController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1008">
+          <caret line="374" column="27" selection-start-line="374" selection-start-column="27" selection-end-line="374" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/keycloak/DeleoKeycloakClientRequestFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#952#953#0" expanded="true" />
+            <element signature="e#1005#1006#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.9/7f91d41b0299f1b915b89af11c14a7a12e48554c/spring-webmvc-5.3.9-sources.jar!/org/springframework/web/servlet/DispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="1098" selection-start-line="1098" selection-end-line="1098" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.9/7f91d41b0299f1b915b89af11c14a7a12e48554c/spring-webmvc-5.3.9-sources.jar!/org/springframework/web/servlet/mvc/method/AbstractHandlerMethodAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.9/7f91d41b0299f1b915b89af11c14a7a12e48554c/spring-webmvc-5.3.9-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestMappingHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="388">
+          <caret line="819" selection-start-line="819" selection-end-line="819" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.3.9/7f91d41b0299f1b915b89af11c14a7a12e48554c/spring-webmvc-5.3.9-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.3.9/c5cd9bf80adc21a6a11b215237be768f730b1efc/spring-web-5.3.9-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="140" selection-start-line="140" selection-end-line="140" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="98" column="11" selection-start-line="98" selection-start-column="11" selection-end-line="98" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/newsletter/NewsletterService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="15" column="52" selection-start-line="15" selection-start-column="52" selection-end-line="15" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1388#1389#0" expanded="true" />
+            <element signature="e#1428#1429#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/newsletter/NewsletterController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>ibm-11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>deleo-wing-ui</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
+  </component>
+</project>

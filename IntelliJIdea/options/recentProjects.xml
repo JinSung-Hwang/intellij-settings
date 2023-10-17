@@ -1,0 +1,385 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Project/deleo-wms-rs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-wms-rs" projectWorkspaceId="2QGodh0KWvzRfsueUQlz0sYbc4a">
+              <option name="activationTimestamp" value="1684989945264" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.9011.34" />
+              <option name="buildTimestamp" value="1684213239452" />
+              <frame x="260" y="52" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1684989941832" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/spring-mvc-with-yhkim">
+          <value>
+            <RecentProjectMetaInfo frameTitle="spring-mvc-with-yhkim – ~/Project/spring-mvc-with-yhkim/.gitignore" projectWorkspaceId="2QozZCJASbZgp7ZuY3vSE2NiBRV">
+              <option name="activationTimestamp" value="1686098232921" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.9011.34" />
+              <option name="buildTimestamp" value="1684213233845" />
+              <frame x="2156" y="25" width="1728" height="995" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1686034774335" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/spring-batch">
+          <value>
+            <RecentProjectMetaInfo frameTitle="demo – ExampleJobConfig.java [demo.main]" projectWorkspaceId="2S0kJGmRq3yF4zoYeNyqOmSo485">
+              <option name="activationTimestamp" value="1688292976420" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.9161.38" />
+              <option name="buildTimestamp" value="1687237283116" />
+              <frame x="1920" y="25" width="1920" height="1055" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1688292386810" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/do-it-java-programing">
+          <value>
+            <RecentProjectMetaInfo frameTitle="do-it-java-programing – Member.java [do-it-java-programing.main]" projectWorkspaceId="2SJZ042KTqpSrPRVYwQdMxsJHJd">
+              <option name="activationTimestamp" value="1688993646678" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.9161.38" />
+              <option name="buildTimestamp" value="1687237293658" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="1920" y="25" width="1920" height="1030" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1688991615166" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/spring-boot-concept-and-application-with-whiteship">
+          <value>
+            <RecentProjectMetaInfo frameTitle="spring-boot-concept-and-application-with-whiteship – application.yml [spring-boot-getting-started.main]" projectWorkspaceId="2SZC5FmJvwCHeiP7DONeFCaBYpX">
+              <option name="activationTimestamp" value="1689484334397" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.9161.38" />
+              <option name="buildTimestamp" value="1687237260156" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="1920" y="25" width="1920" height="1055" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1689344531517" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-hrm-rs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-hrm-rs – README.md [deleo-hrm-rs]" projectWorkspaceId="2SsHvuGg1Nw6XMv1Mw73CJAckCw">
+              <option name="activationTimestamp" value="1689930548645" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.9161.38" />
+              <option name="buildTimestamp" value="1687237271850" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="38" width="1728" height="994" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1690011679575" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-settle-rs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-settle-rs – build.gradle (deleo-settle-rs)" projectWorkspaceId="2TeI2bWPzb832qVaFrL9Icb3i4V">
+              <option name="activationTimestamp" value="1691397056066" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-231.9161.38" />
+              <option name="buildTimestamp" value="1687237314857" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="260" y="45" width="1660" height="973" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1691396913683" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/today-i-learn">
+          <value>
+            <RecentProjectMetaInfo frameTitle="today-i-learn – 04장-예외.md" projectWorkspaceId="2RK8NaB5RctLMIBeKuo0z6RhT7u">
+              <option name="activationTimestamp" value="1692710146292" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.8660.185" />
+              <option name="buildTimestamp" value="1690347686544" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="580" y="232" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1692709502183" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/springbatch">
+          <value>
+            <RecentProjectMetaInfo frameTitle="springbatch" projectWorkspaceId="2S0p5SefARfC37af9WslojPZKRu">
+              <option name="activationTimestamp" value="1693143785337" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.8660.185" />
+              <option name="buildTimestamp" value="1690347660086" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="164" y="58" width="1400" height="978" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1693142363329" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/spring-template">
+          <value>
+            <RecentProjectMetaInfo frameTitle="spring-template – Level.java [spring-template.main]" projectWorkspaceId="2QjWmOw4swixCsB5bpata8x4fg3">
+              <option name="activationTimestamp" value="1693879386248" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.8660.185" />
+              <option name="buildTimestamp" value="1690347701375" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="5120" y="177" width="1728" height="994" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1693879386743" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-test">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-admin-rs – Test.java [deleo-admin-rs.main]" projectWorkspaceId="2QGgK61TpZOP27oPbIrKb0M5Sxh">
+              <option name="activationTimestamp" value="1694341015092" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.8660.185" />
+              <option name="buildTimestamp" value="1690347694013" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="96" y="25" width="1824" height="995" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1694085200056" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-wing-ui">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-wing-ui" projectWorkspaceId="2VFZwIk26kCnB4iMc8Dfo484bfp">
+              <option name="activationTimestamp" value="1694434025625" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.8660.185" />
+              <option name="buildTimestamp" value="1690347682092" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="2560" y="25" width="2560" height="1415" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1694434026162" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/spring-jpa-first-with-yhkim">
+          <value>
+            <RecentProjectMetaInfo frameTitle="spring-jpa-first-with-yhkim – readme.md [jpashop]" projectWorkspaceId="2QsbLIyS9y4oiIpMgGwEEVK3DgQ">
+              <option name="activationTimestamp" value="1695370247147" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553829307" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="0" y="25" width="2560" height="1355" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1695300148383" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-wms-rs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-wms-rs" projectWorkspaceId="2QGodh0KWvzRfsueUQlz0sYbc4a">
+              <option name="activationTimestamp" value="1695797791018" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553797852" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="0" y="25" width="2560" height="1355" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1695704303937" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-oms-rs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-oms-rs – Admin.java [deleo-oms-rs.main]" opened="true" projectWorkspaceId="2T2qW0Gp5eeluGiglQOVoJY2fd4">
+              <option name="activationTimestamp" value="1697551822029" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553789956" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="2560" y="25" width="2317" height="1051" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1697008727624" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-carrier-sch">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-carrier-sch – TraceService.java [deleo-carrier-sch.main]" projectWorkspaceId="2U99FdVCbWz4OJADDLcaQNjQcBo">
+              <option name="activationTimestamp" value="1697175992276" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553789956" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="2481" y="25" width="2560" height="1415" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1697093140705" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/practical-testing-with-wbpark">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="2VsuHqEaFHXpHIDEPEueCS2caBG">
+              <option name="activationTimestamp" value="1697175280269" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553789956" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="2560" y="25" width="2560" height="1415" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1697175280571" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-library-common">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-library-common – HsCodeNavigation.java [deleo-library-common.main]" projectWorkspaceId="2Sofpe5lgYwmu7aiKgohqiNe3mx">
+              <option name="activationTimestamp" value="1697522455390" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553789956" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="25" width="2560" height="1355" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1697520706641" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-portal-ui">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-portal-ui – customerMng.html [deleo-portal-ui.main]" opened="true" projectWorkspaceId="2QaBzmHRWLFTUIvc3RZ4m2yc6nN">
+              <option name="activationTimestamp" value="1697551020283" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553820774" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="25" width="2560" height="1355" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1697525243460" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-admin-rs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-admin-rs" opened="true" projectWorkspaceId="2QGgK61TpZOP27oPbIrKb0M5Sxh">
+              <option name="activationTimestamp" value="1697551727447" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553820774" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="0" y="25" width="2560" height="1355" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1697526187998" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-carrier-rs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-carrier-rs – SfIuopRestClient.java [deleo-carrier-rs.main]" opened="true" projectWorkspaceId="2TS98D4HQvMsNV0JMdW7wFqR4oy">
+              <option name="activationTimestamp" value="1697543929659" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553820774" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="25" width="2560" height="1355" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1697528599920" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-mms-rs">
+          <value>
+            <RecentProjectMetaInfo frameTitle="deleo-mms-rs – EmailService.java [deleo-mms-rs.main]" projectWorkspaceId="2SKUHva6styfwxA3VDt9xO4OtC7">
+              <option name="activationTimestamp" value="1697531104285" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553820774" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="5120" y="25" width="2560" height="1355" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1697531104506" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/platform-dev">
+          <value>
+            <RecentProjectMetaInfo frameTitle="platform-dev – ObjectFactory.java [deleo-carrier-rs.main]" opened="true" projectWorkspaceId="2QGpuubFtBxPrk3rCYsBxp9ADbD">
+              <option name="activationTimestamp" value="1697543930035" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553820774" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="0" y="25" width="2560" height="1356" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1697542016969" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Project/spring-mvc-part-two-with-yhkim">
+          <value>
+            <RecentProjectMetaInfo frameTitle="spring-mvc-part-two-with-yhkim – readme.md [spring-mvc-part-two-with-yhkim]" opened="true" projectWorkspaceId="2Sc3L2Tx22uaNAyfh6trfxgfRIE">
+              <option name="activationTimestamp" value="1697553466593" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-232.9921.47" />
+              <option name="buildTimestamp" value="1694553820774" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="580" y="202" width="1400" height="1000" extendedState="6" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1697551840966" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Project/spring-mvc-part-two-with-yhkim" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Project/platform-dev" />
+  </component>
+</application>

@@ -1,0 +1,433 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="spring-mvc-with-yhkim" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1686046134606" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="6" lastUsed="1686046091406" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="15" lastUsed="1686039212866" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1686034774871" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/item-service/src/main/java/hello/itemservice/ItemServiceApplication.java" />
+      <option value="$PROJECT_DIR$/item-service/src/main/java/hello/itemservice/domain/Item.java" />
+      <option value="$PROJECT_DIR$/item-service/src/main/java/hello/itemservice/domain/item/Item.java" />
+      <option value="$PROJECT_DIR$/item-service/src/main/java/hello/itemservice/domain/item/ItemRepository.java" />
+      <option value="$PROJECT_DIR$/item-service/src/test/java/hello/itemservice/domain/item/ItemRepositoryTest.java" />
+      <option value="$PROJECT_DIR$/item-service/src/main/resources/static/html/items.html" />
+      <option value="$PROJECT_DIR$/item-service/src/main/resources/static/html/item.html" />
+      <option value="$PROJECT_DIR$/item-service/src/main/resources/static/html/addForm.html" />
+      <option value="$PROJECT_DIR$/item-service/src/main/resources/static/html/editForm.html" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1686046134606" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="6" lastUsage="1686046091406" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="15" lastUsage="1686039212866" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1686034774871" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="item-service" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-mvc-with-yhkim/item-service}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.ItemRepositoryTest" />
+      <element setting="JUnit.ItemRepositoryTest.save" />
+      <element setting="Spring Boot.ItemServiceApplication" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ItemRepositoryTest - 2023.06.06 at 17h 12m 07s.xml">
+      <configuration name="ItemRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemRepositoryTest - 2023.06.06 at 17h 14m 33s.xml">
+      <configuration name="ItemRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemRepositoryTest - 2023.06.06 at 17h 14m 43s.xml">
+      <configuration name="ItemRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemRepositoryTest_save - 2023.06.06 at 17h 15m 06s.xml">
+      <configuration name="ItemRepositoryTest.save" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemRepositoryTest_save - 2023.06.06 at 17h 15m 35s.xml">
+      <configuration name="ItemRepositoryTest.save" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ItemRepositoryTest - 2023.06.06 at 17h 15m 46s.xml">
+      <configuration name="ItemRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8758000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.18255208" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.3180095" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Spring" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.3295678" />
+      <window_info anchor="bottom" id="Dependencies" order="4" />
+      <window_info anchor="right" id="Gradle" weight="0.33015046" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="Endpoints" order="0" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <unified_weights bottom="0.3180095" left="0.18255208" right="0.33015046" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20283565" />
+      <window_info id="Learn" order="0" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295678" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Java Enterprise" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Spring" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.3295678" />
+      <window_info anchor="bottom" id="Dependencies" order="4" />
+      <window_info active="true" anchor="right" id="Gradle" visible="true" weight="0.33015046" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="Endpoints" order="0" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <unified_weights bottom="0.3295678" left="0.20283565" right="0.33015046" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Gradle</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="344" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1686035126563">
+      <screen x="0" y="38" width="1728" height="1019" />
+    </state>
+    <state x="344" y="209" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.38.1728.1019@0.38.1728.1019" timestamp="1686035126563" />
+    <state x="677" y="266" key="#com.intellij.ide.util.MemberChooser" timestamp="1686036736164">
+      <screen x="0" y="38" width="1728" height="1019" />
+    </state>
+    <state x="677" y="266" key="#com.intellij.ide.util.MemberChooser/0.38.1728.1019@0.38.1728.1019" timestamp="1686036736164" />
+    <state width="1878" height="307" key="GridCell.Tab.0.bottom" timestamp="1686098236216">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1686" height="307" key="GridCell.Tab.0.bottom/0.38.1728.1019@0.38.1728.1019" timestamp="1686039346495" />
+    <state width="1878" height="307" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686098236216" />
+    <state width="1878" height="307" key="GridCell.Tab.0.center" timestamp="1686098236216">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1686" height="307" key="GridCell.Tab.0.center/0.38.1728.1019@0.38.1728.1019" timestamp="1686039346495" />
+    <state width="1878" height="307" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686098236216" />
+    <state width="1878" height="307" key="GridCell.Tab.0.left" timestamp="1686098236216">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1686" height="307" key="GridCell.Tab.0.left/0.38.1728.1019@0.38.1728.1019" timestamp="1686039346495" />
+    <state width="1878" height="307" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686098236216" />
+    <state width="1878" height="307" key="GridCell.Tab.0.right" timestamp="1686098236216">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1686" height="307" key="GridCell.Tab.0.right/0.38.1728.1019@0.38.1728.1019" timestamp="1686039346495" />
+    <state width="1878" height="307" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686098236216" />
+    <state width="1686" height="307" key="GridCell.Tab.1.bottom" timestamp="1686098236212">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1686" height="307" key="GridCell.Tab.1.bottom/0.38.1728.1019@0.38.1728.1019" timestamp="1686038942159" />
+    <state width="1686" height="307" key="GridCell.Tab.1.bottom/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686098236212" />
+    <state width="1686" height="307" key="GridCell.Tab.1.center" timestamp="1686098236212">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1686" height="307" key="GridCell.Tab.1.center/0.38.1728.1019@0.38.1728.1019" timestamp="1686038942159" />
+    <state width="1686" height="307" key="GridCell.Tab.1.center/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686098236212" />
+    <state width="1686" height="307" key="GridCell.Tab.1.left" timestamp="1686098236212">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1686" height="307" key="GridCell.Tab.1.left/0.38.1728.1019@0.38.1728.1019" timestamp="1686038942159" />
+    <state width="1686" height="307" key="GridCell.Tab.1.left/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686098236212" />
+    <state width="1686" height="307" key="GridCell.Tab.1.right" timestamp="1686098236212">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state width="1686" height="307" key="GridCell.Tab.1.right/0.38.1728.1019@0.38.1728.1019" timestamp="1686038942159" />
+    <state width="1686" height="307" key="GridCell.Tab.1.right/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686098236212" />
+    <state x="497" y="251" key="NewModule_or_Project.wizard" timestamp="1686034972039">
+      <screen x="0" y="38" width="1728" height="1019" />
+    </state>
+    <state x="497" y="251" key="NewModule_or_Project.wizard/0.38.1728.1019@0.38.1728.1019" timestamp="1686034972039" />
+    <state x="352" y="125" key="SettingsEditor" timestamp="1686038566569">
+      <screen x="0" y="38" width="1728" height="1019" />
+    </state>
+    <state x="352" y="125" key="SettingsEditor/0.38.1728.1019@0.38.1728.1019" timestamp="1686038566569" />
+    <state x="667" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1686036702961">
+      <screen x="0" y="38" width="1728" height="1019" />
+    </state>
+    <state x="667" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.38.1728.1019@0.38.1728.1019" timestamp="1686036702961" />
+    <state x="625" y="309" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1686038116949">
+      <screen x="0" y="38" width="1728" height="1019" />
+    </state>
+    <state x="625" y="309" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.38.1728.1019@0.38.1728.1019" timestamp="1686038116949" />
+    <state x="464" y="237" width="800" height="620" key="new project wizard" timestamp="1686034959459">
+      <screen x="0" y="38" width="1728" height="1019" />
+    </state>
+    <state x="464" y="237" width="800" height="620" key="new project wizard/0.38.1728.1019@0.38.1728.1019" timestamp="1686034959459" />
+    <state x="2508" y="258" width="745" height="708" key="search.everywhere.popup" timestamp="1686098221038">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="529" y="263" width="670" height="683" key="search.everywhere.popup/0.38.1728.1019@0.38.1728.1019" timestamp="1686038950370" />
+    <state x="2508" y="258" width="745" height="708" key="search.everywhere.popup/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1686098221038" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item-service/src/main/java/hello/itemservice/ItemServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.26/f43db6c43d481ab766a496c86dc43c145e3c9df4/lombok-1.18.26-sources.jar!/lombok/Data.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="32" column="93" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/semeru-11.0.18/Contents/Home/lib/src.zip!/java.base/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="216" selection-start-line="216" selection-end-line="216" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/semeru-11.0.18/Contents/Home/lib/src.zip!/java.base/java/lang/NullPointerException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="52" column="6" selection-start-line="52" selection-start-column="6" selection-end-line="52" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item-service/src/main/resources/static/html/item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="37" column="52" selection-start-line="37" selection-start-column="52" selection-end-line="37" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item-service/src/main/resources/static/html/items.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item-service/src/main/java/hello/itemservice/domain/item/ItemRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#614#615#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item-service/src/main/java/hello/itemservice/domain/item/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item-service/src/test/java/hello/itemservice/domain/item/ItemRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="373">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item-service/src/main/resources/static/html/editForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/item-service/src/main/resources/static/html/addForm.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="27" column="65" selection-start-line="27" selection-start-column="65" selection-end-line="27" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>item-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.2.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

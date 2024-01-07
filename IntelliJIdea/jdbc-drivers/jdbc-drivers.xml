@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <artifacts>
+  <repository id="alibaba" url="https://maven.aliyun.com/repository/public/"/>
   <artifact name="HSQLDB">
     <version version="2.3.2">
       <item type="maven" url="org.hsqldb:hsqldb:2.3.2"/>
@@ -292,6 +293,13 @@
       <item type="maven" url="com.h2database:h2:2.1.210"/>
       <item type="license" name="license-mpl.txt" url="https://download.jetbrains.com/idea/jdbc-drivers/h2/h2-license-mpl20.txt"/>
       <item type="license" name="license-epl.txt" url="https://download.jetbrains.com/idea/jdbc-drivers/h2/h2-license-epl10.txt"/>
+    </version>
+  </artifact>
+
+  <artifact name="AWS Aurora MySQL">
+    <version version="1.1.9">
+      <item type="maven" url="software.aws.rds:aws-mysql-jdbc:1.1.9"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/Aurora/LICENSE.txt"/>
     </version>
   </artifact>
 
@@ -934,6 +942,10 @@
       <item type="maven" url="org.duckdb:duckdb_jdbc:0.7.0"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DuckDB/LICENSE.txt"/>
     </version>
+    <version version="0.9.2">
+      <item type="maven" url="org.duckdb:duckdb_jdbc:0.9.2"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DuckDB/LICENSE.txt"/>
+    </version>
   </artifact>
 
   <artifact name="Mimer SQL">
@@ -997,6 +1009,25 @@
     <version version="1.13.1">
       <item type="maven" url="com.google.cloud.sql:cloud-sql-connector-jdbc-sqlserver:1.13.1"/>
       <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/ProxySQL/LICENSE.txt"/>
+    </version>
+  </artifact>
+
+  <artifact name="Dynamo">
+    <version version="0.4">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/dynamodb-jdbc-driver-0.4.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/LICENSE.txt"/>
+    </version>
+    <version version="0.3">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/dynamodb-jdbc-driver-0.3.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/LICENSE.txt"/>
+    </version>
+    <version version="0.5">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/dynamodb-jdbc-driver-0.5.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/LICENSE.txt"/>
+    </version>
+    <version version="0.6">
+      <item url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/dynamodb-jdbc-driver-0.6.jar"/>
+      <item type="license" url="https://download.jetbrains.com/idea/jdbc-drivers/DynamoDB/LICENSE.txt"/>
     </version>
   </artifact>
 </artifacts>

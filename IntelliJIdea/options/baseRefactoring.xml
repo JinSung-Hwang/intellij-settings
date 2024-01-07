@@ -3,7 +3,6 @@
     <option name="SAFE_DELETE_SEARCH_IN_COMMENTS" value="false" />
   </component>
   <component name="RefactoringSettings">
-    <option name="INLINE_LOCAL_THIS" value="true" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
   </component>
 </application>

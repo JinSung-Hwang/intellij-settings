@@ -6,36 +6,84 @@
       </GroupState>
     </option>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/kafka/kafka-조금-아는-척하기/kafka-조금-아는-척하기3-컨슈머.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+              <first_editor relative-caret-position="252">
+                <caret line="12" selection-start-line="12" selection-end-line="12" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="AUTO_DETECTED">
-      <summary usageCount="1" lastUsed="1686994782709" />
+      <summary usageCount="2" lastUsed="1702085126203" />
     </fileType>
     <fileType name="DIFF">
-      <summary usageCount="1" lastUsed="1692366271395" />
-    </fileType>
-    <fileType name="Dockerfile">
-      <summary usageCount="1" lastUsed="1689435292648" />
-    </fileType>
-    <fileType name="JAVA">
-      <summary usageCount="3" lastUsed="1690011724169" />
+      <summary usageCount="7" lastUsed="1703494816879" />
     </fileType>
     <fileType name="Markdown">
-      <summary usageCount="15" lastUsed="1692709532972" />
+      <summary usageCount="42" lastUsed="1703678465391" />
     </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>페이</find>
+      <find>페</find>
+      <find>```</find>
+      <find>인</find>
+      <find>filterch</find>
+      <find>by</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/java/effective-java-3</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/java/live-study/main.test" />
-      <option value="$PROJECT_DIR$/java/live-study/main.java" />
-      <option value="$PROJECT_DIR$/java/live-study/3-week.md" />
-      <option value="$PROJECT_DIR$/Dockerfile" />
-      <option value="$PROJECT_DIR$/git/branch-strategy.md" />
-      <option value="$PROJECT_DIR$/spring/toby-spring/02장-TEST.md" />
-      <option value="$PROJECT_DIR$/spring/토비의-스프링부트-3.1/04장-예외.md" />
-      <option value="$PROJECT_DIR$/spring/토비의-스프링부트-3.1/02장-테스트.md" />
+      <option value="$PROJECT_DIR$/jpa/자바-orm-표준-jpa-프로그래밍/7장-고급-매핑.md" />
+      <option value="$PROJECT_DIR$/spring/자바-웹-개발-워크북/01장-웹-프로그래밍의-시작.md" />
+      <option value="$PROJECT_DIR$/spring/자바-웹-개발-워크북/02장-웹과-데이터베이스.md" />
+      <option value="$PROJECT_DIR$/spring/자바-웹-개발-워크북/04장-스프링과-스프링-Web-MVC.md" />
+      <option value="$PROJECT_DIR$/spring/자바-웹-개발-워크북/08장-스프링-시큐리티.md" />
+      <option value="$PROJECT_DIR$/spring/자바-웹-개발-워크북/05장-스프링에서-스프링-부트로.md" />
+      <option value="$PROJECT_DIR$/spring/자바-웹-개발-워크북/06장-AJAX와-JSON.md" />
+      <option value="$PROJECT_DIR$/java/effective-java-3/05장-제네릭" />
+      <option value="$PROJECT_DIR$/java/effective-java-3/05장-제네릭.md" />
+      <option value="$PROJECT_DIR$/spring/자바-웹-개발-워크북/07장-파일-업로드-처리.md" />
+      <option value="$PROJECT_DIR$/kafka/kafka-조금-아는-척하기/kafka-조금-아는-척하기2-프로듀서.md" />
+      <option value="$PROJECT_DIR$/kafka/kafka-조금-아는-척하기/kafka-조금-아는-척하기3-컨슈머.md" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -46,14 +94,8 @@
     </option>
   </component>
   <component name="LanguageUsageStatistics">
-    <language id="Dockerfile">
-      <summary usageCount="1" lastUsage="1689435292648" />
-    </language>
-    <language id="JAVA">
-      <summary usageCount="3" lastUsage="1690011724169" />
-    </language>
     <language id="Markdown">
-      <summary usageCount="15" lastUsage="1692709532972" />
+      <summary usageCount="42" lastUsage="1703678465391" />
     </language>
   </component>
   <component name="ProjectView">
@@ -70,13 +112,13 @@
             <path>
               <item name="today-i-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn/spring}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn/kafka}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="today-i-learn" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn/spring}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn/spring/토비의-스프링부트-3.1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn/kafka}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/today-i-learn/kafka/kafka-조금-아는-척하기}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -86,118 +128,225 @@
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29576000" />
+    <option name="totallyTimeSpent" value="53768000" />
   </component>
   <component name="ToolWindowManager">
     <layout>
-      <window_info id="Bookmarks" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.10097656" />
+      <window_info id="Commit" weight="0.1478588" />
+      <window_info id="Bookmarks" order="0" side_tool="true" weight="0.20026042" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.10957031" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.31646973" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.33055827" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="4" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Problems View" order="6" weight="0.33033174" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Services" order="8" />
       <window_info anchor="bottom" id="Profiler" order="9" />
-      <window_info anchor="bottom" id="Build" order="10" visible="true" weight="0.32976365" />
-      <window_info anchor="bottom" id="Dependencies" order="11" />
-      <window_info anchor="right" id="Gradle" weight="0.3304398" />
-      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
-      <window_info anchor="right" id="PlantUML" order="1" />
-      <window_info anchor="right" id="Endpoints" order="2" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="Notifications" order="4" weight="0.25" />
-      <unified_weights bottom="0.32976365" left="0.10097656" right="0.3304398" />
+      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" weight="0.23286219" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="0" />
+      <window_info anchor="right" id="JSON Formatter" order="1" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="2" />
+      <window_info anchor="right" id="Translation.Wordbook" order="3" side_tool="true" />
+      <window_info anchor="right" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.23286219" left="0.10957031" />
     </layout>
     <recentWindows>
       <value>Project</value>
       <value>Build</value>
       <value>Version Control</value>
+      <value>Commit</value>
+      <value>Bookmarks</value>
+      <value>Problems View</value>
     </recentWindows>
   </component>
   <component name="WindowStateProjectService">
-    <state x="305" y="126" width="2104" height="1160" key="CommitChangelistDialog2" timestamp="1692366306015">
-      <screen x="0" y="25" width="2560" height="1415" />
+    <state x="90" y="135" width="1548" height="829" key="DiffContextDialog" timestamp="1703498009863">
+      <screen x="0" y="38" width="1728" height="1022" />
     </state>
-    <state x="305" y="126" width="2104" height="1160" key="CommitChangelistDialog2/0.25.2560.1415/-2560.25.2560.1354@0.25.2560.1415" timestamp="1692366306015" />
-    <state x="452" y="110" key="CommitChangelistDialog2/0.38.1728.1019@0.38.1728.1019" timestamp="1686988068635" />
-    <state x="2679" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1689438059733">
+    <state x="2020" y="125" width="1720" height="855" key="DiffContextDialog/0.25.1920.1001/1920.25.1920.1055@1920.25.1920.1055" timestamp="1703315741307" />
+    <state x="2020" y="125" width="1720" height="855" key="DiffContextDialog/0.25.1920.1003/1920.25.1920.1055@1920.25.1920.1055" timestamp="1701009565693" />
+    <state x="90" y="135" width="1548" height="829" key="DiffContextDialog/0.38.1728.1022@0.38.1728.1022" timestamp="1703498009863" />
+    <state x="3650" y="457" key="RollbackChangesDialog" timestamp="1700217447215">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3650" y="457" key="RollbackChangesDialog/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700217447215" />
+    <state x="3379" y="372" key="SettingsEditor" timestamp="1703672198962">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3379" y="372" key="SettingsEditor/2560.25.2560.1415/0.25.2560.1358@2560.25.2560.1415" timestamp="1703672198962" />
+    <state width="500" height="629" key="SwitcherDM" timestamp="1702088480801">
+      <screen x="0" y="38" width="1728" height="1025" />
+    </state>
+    <state width="500" height="629" key="SwitcherDM/0.38.1728.1025@0.38.1728.1025" timestamp="1702088480801" />
+    <state x="2618" y="260" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1703317668321">
       <screen x="1920" y="25" width="1920" height="1055" />
     </state>
-    <state x="2679" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689438059733" />
-    <state x="504" y="248" width="720" height="620" key="new project wizard" timestamp="1690011804069">
-      <screen x="0" y="38" width="1728" height="1019" />
+    <state x="2618" y="260" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.25.1920.1001/1920.25.1920.1055@1920.25.1920.1055" timestamp="1703317668321" />
+    <state x="3800" y="732" width="399" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1701134584430">
+      <screen x="2560" y="25" width="2560" height="1415" />
     </state>
-    <state x="504" y="248" width="720" height="620" key="new project wizard/0.38.1728.1019@0.38.1728.1019" timestamp="1690011804069" />
-    <state x="2480" y="242" width="800" height="620" key="new project wizard/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.995@1920.25.1920.1055" timestamp="1689435309608" />
-    <state x="2545" y="259" width="670" height="683" key="search.everywhere.popup" timestamp="1691660273936">
+    <state x="3800" y="732" width="399" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1701134584430" />
+    <state x="479" y="112" width="576" height="502" key="find.popup" timestamp="1702085770055">
+      <screen x="0" y="38" width="1728" height="1025" />
+    </state>
+    <state x="479" y="112" width="576" height="502" key="find.popup/0.38.1728.1025@0.38.1728.1025" timestamp="1702085770055" />
+    <state x="2521" y="259" width="1012" height="694" key="search.everywhere.popup" timestamp="1703318222184">
       <screen x="1920" y="25" width="1920" height="1055" />
     </state>
-    <state x="2545" y="259" width="670" height="683" key="search.everywhere.popup/1059.1118.1728.1079/1920.25.1920.1055/0.25.1920.994@1920.25.1920.1055" timestamp="1691660273936" />
+    <state x="2521" y="259" width="1012" height="694" key="search.everywhere.popup/0.25.1920.1001/1920.25.1920.1055@1920.25.1920.1055" timestamp="1703318222184" />
+    <state x="2521" y="259" width="917" height="693" key="search.everywhere.popup/0.25.1920.1003/1920.25.1920.1055@1920.25.1920.1055" timestamp="1701009509011" />
+    <state x="541" y="265" width="910" height="674" key="search.everywhere.popup/0.38.1728.1025@0.38.1728.1025" timestamp="1702090746206" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/readme.md">
+    <entry file="file://$PROJECT_DIR$/jpa/자바-orm-표준-jpa-프로그래밍/06장-다양한-연관관계-매핑.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
           <first_editor />
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/live-study/2-week.md">
+    <entry file="file://$PROJECT_DIR$/jpa/자바-orm-표준-jpa-프로그래밍/07장-고급-매핑.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
-          <first_editor relative-caret-position="490">
-            <caret line="24" column="49" selection-start-line="20" selection-end-line="25" />
+          <first_editor>
+            <caret column="9" selection-start-column="9" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/live-study/3-week.md">
+    <entry file="file://$PROJECT_DIR$/spring/자바-웹-개발-워크북/03장-세션과-필터.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
-          <first_editor relative-caret-position="731">
-            <caret line="162" selection-start-line="162" selection-end-line="162" />
+          <first_editor relative-caret-position="713">
+            <caret line="31" column="53" selection-start-line="31" selection-start-column="53" selection-end-line="31" selection-end-column="53" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile" />
-    <entry file="file://$PROJECT_DIR$/git/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/java/live-study/main.java" />
-    <entry file="file://$PROJECT_DIR$/git/branch-strategy.md">
+    <entry file="file://$PROJECT_DIR$/spring/자바-웹-개발-워크북/04장-스프링과-스프링-Web-MVC.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
-          <first_editor relative-caret-position="180">
-            <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="260">
+            <caret line="461" column="2" selection-start-line="461" selection-start-column="2" selection-end-line="461" selection-end-column="2" />
+            <folding>
+              <element signature="e#168#169#0" expanded="true" />
+              <element signature="e#209#210#0" expanded="true" />
+              <element signature="e#1007#1008#0" expanded="true" />
+              <element signature="e#1042#1043#0" expanded="true" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/spring/토비의-스프링부트-3.1/02장-테스트.md">
+    <entry file="file://$PROJECT_DIR$/spring/자바-웹-개발-워크북/05장-스프링에서-스프링-부트로.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
-          <first_editor relative-caret-position="365">
-            <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="504">
+            <caret line="243" selection-start-line="243" selection-end-line="243" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring/토비의-스프링부트-3.1/04장-예외.md">
+    <entry file="file://$PROJECT_DIR$/java/live-study/1-week.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="291">
+            <caret line="58" column="4" selection-start-line="58" selection-start-column="4" selection-end-line="58" selection-end-column="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/effective-java-3/05장-제네릭.md" />
+    <entry file="file://$PROJECT_DIR$/spring/자바-웹-개발-워크북/08장-스프링-시큐리티.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="394">
+            <caret line="378" column="49" selection-start-line="378" selection-start-column="49" selection-end-line="378" selection-end-column="49" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/자바-웹-개발-워크북/01장-웹-프로그래밍의-시작.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="168">
+            <caret line="245" column="42" lean-forward="true" selection-start-line="245" selection-start-column="42" selection-end-line="245" selection-end-column="42" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/자바-웹-개발-워크북/02장-웹과-데이터베이스.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="-654">
+            <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/자바-웹-개발-워크북/06장-AJAX와-JSON.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="777">
+            <caret line="112" selection-start-line="112" selection-end-line="112" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring/자바-웹-개발-워크북/07장-파일-업로드-처리.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SHOW_EDITOR" is_vertical_split="false">
-          <first_editor relative-caret-position="546">
-            <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <first_editor relative-caret-position="273">
+            <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka/kafka-조금-아는-척하기/kafka-조금-아는-척하기1-구조.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="84">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka/kafka-조금-아는-척하기/kafka-조금-아는-척하기2-프로듀서.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="567">
+            <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kafka/kafka-조금-아는-척하기/kafka-조금-아는-척하기3-컨슈머.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="252">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
           </first_editor>
           <second_editor />
         </state>

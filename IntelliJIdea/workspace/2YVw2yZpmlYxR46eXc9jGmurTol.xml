@@ -1,0 +1,266 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="keycloak" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CSS">
+      <summary usageCount="1" lastUsed="1700729537482" />
+    </fileType>
+    <fileType name="FTL">
+      <summary usageCount="10" lastUsed="1700730494471" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="1" lastUsed="1700624095965" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="3" lastUsed="1700790368032" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1700624398714" />
+    </fileType>
+    <fileType name="Properties">
+      <summary usageCount="2" lastUsed="1700729520186" />
+    </fileType>
+    <fileType name="TypeScript">
+      <summary usageCount="1" lastUsed="1700729695061" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="1" lastUsed="1700624386164" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sso/login</find>
+      <find>login.ftl</find>
+      <find>sso/l</find>
+      <find>login</find>
+      <find>&quot;로그인에 따라 달라짐&quot;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/keycloak/src/main/resources/theme/shipbaesong/login</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/keycloak/src/main/resources/theme/shipbaesong/login/login.ftl" />
+      <option value="$PROJECT_DIR$/08장-스프링-시큐리티.md" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="CSS">
+      <summary usageCount="1" lastUsage="1700729537482" />
+    </language>
+    <language id="FTL">
+      <summary usageCount="10" lastUsage="1700730494474" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1700624095965" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="3" lastUsage="1700790368032" />
+    </language>
+    <language id="Properties">
+      <summary usageCount="2" lastUsage="1700729520186" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1700624398714" />
+    </language>
+    <language id="TypeScript">
+      <summary usageCount="1" lastUsage="1700729695061" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1700624386164" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="keycloak" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/keycloak}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15214000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.18984374" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40035337" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="0" />
+      <window_info anchor="right" id="JSON Formatter" order="1" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="2" />
+      <window_info anchor="right" id="Translation.Wordbook" order="3" side_tool="true" />
+      <window_info anchor="right" id="Endpoints" order="4" weight="0.3298828" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Notifications" order="6" weight="0.25" />
+      <unified_weights bottom="0.40035337" left="0.18984374" right="0.3298828" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Endpoints</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="819" y="345" key="SettingsEditor" timestamp="1700623900595">
+      <screen x="0" y="25" width="2560" height="1363" />
+    </state>
+    <state x="819" y="345" key="SettingsEditor/2560.25.2560.1415/0.25.2560.1363@0.25.2560.1363" timestamp="1700623900595" />
+    <state x="3269" y="126" width="1452" height="1058" key="find.popup" timestamp="1700735896589">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3269" y="126" width="1452" height="1058" key="find.popup/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700735896589" />
+    <state x="709" y="122" width="1452" height="1019" key="find.popup/2560.25.2560.1415/0.25.2560.1363@0.25.2560.1363" timestamp="1700625046482" />
+    <state x="935" y="336" width="836" height="693" key="search.everywhere.popup" timestamp="1700624350933">
+      <screen x="0" y="25" width="2560" height="1363" />
+    </state>
+    <state x="935" y="336" width="836" height="693" key="search.everywhere.popup/2560.25.2560.1415/0.25.2560.1363@0.25.2560.1363" timestamp="1700624350933" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/keycloak/src/main/java/co/kr/deleo/keycloak/modules/naver/NaverIdentityProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="20" column="57" lean-forward="true" selection-start-line="20" selection-start-column="57" selection-end-line="20" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keycloak/src/main/resources/theme/shipbaesong/login/login-update-profile.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keycloak/src/main/resources/theme/shipbaesong/login/template.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keycloak/src/main/resources/theme/shipbaesong/login/theme.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keycloak/src/main/resources/theme/shipbaesong/login/template-registration.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keycloak/test/argocd/install.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="611" column="36" selection-start-line="611" selection-start-column="36" selection-end-line="611" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keycloak/test/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="23" column="75" selection-start-line="23" selection-start-column="75" selection-end-line="23" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keycloak/src/main/resources/theme/deleo/login/resources/css/customize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keycloak/src/main/resources/theme/deleo/login/login.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keycloak/src/main/resources/theme/deleo/login/template.ftl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keycloak/src/main/resources/theme/deleo/login/theme.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/javascript-impl/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="7202" column="4" selection-start-line="7202" selection-start-column="4" selection-end-line="7202" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/keycloak/src/main/resources/theme/shipbaesong/login/login.ftl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="322" column="28" selection-start-line="322" selection-start-column="28" selection-end-line="322" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/08장-스프링-시큐리티.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="598">
+            <caret line="122" column="15" selection-start-line="122" selection-start-column="15" selection-end-line="122" selection-end-column="15" />
+            <folding>
+              <element signature="e#139#140#0" expanded="true" />
+              <element signature="e#183#184#0" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

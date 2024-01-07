@@ -1,0 +1,193 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="helm-chart" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1704349500943" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="22" lastUsed="1704416915733" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>API_DELEO_ADMIN_URL: http://deleo-admin-rs.platform-dev.svc.cluster.local:8080/admin</find>
+      <find>apis-dev.deleo.co.kr</find>
+      <find>admin</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/deleo-carrier-rs</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/deleo-carrier-sch/values-prod.yaml" />
+      <option value="$PROJECT_DIR$/deleo-carrier-sch/values-staging.yaml" />
+      <option value="$PROJECT_DIR$/deleo-carrier-sch/values-dev.yaml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1704349500943" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="22" lastUsage="1704416915733" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="helm-chart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/helm-chart}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helm-chart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/helm-chart}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/helm-chart/deleo-carrier-rs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helm-chart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/helm-chart}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/helm-chart/deleo-carrier-sch}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helm-chart" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/helm-chart}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/helm-chart/deleo-portal-ui}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5403000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="1" weight="0.13691406" />
+      <window_info id="Learn" order="2" />
+      <window_info id="Structure" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Services" order="8" />
+      <window_info anchor="bottom" id="Profiler" order="9" />
+      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="0" />
+      <window_info anchor="right" id="JSON Formatter" order="1" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="2" />
+      <window_info anchor="right" id="Translation.Wordbook" order="3" side_tool="true" />
+      <window_info anchor="right" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Notifications" order="6" weight="0.25" />
+      <unified_weights left="0.13691406" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="709" y="123" width="576" height="502" key="find.popup" timestamp="1704349640958">
+      <screen x="0" y="25" width="2560" height="1358" />
+    </state>
+    <state x="709" y="123" width="576" height="502" key="find.popup/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1358@0.25.2560.1358" timestamp="1704349640958" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor>
+            <caret lean-forward="true" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleo-portal-ui/values-prod.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleo-carrier-sch/values-prod.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleo-carrier-sch/values-staging.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleo-carrier-sch/values-dev.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="42" column="2" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleo-portal-ui/values-staging.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleo-portal-ui/values-dev.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleo-carrier-rs/values-dev.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="52" column="64" selection-start-line="52" selection-start-column="64" selection-end-line="52" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleo-carrier-rs/values-staging.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="47" column="56" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deleo-carrier-rs/values-prod.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,632 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="deleo-wing-ui" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:hotfix" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:sajo" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:fix" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:fix/PLFDEV-583-프로모션-페이지에서-로그인-후의-랜딩-페이지-변경-요청" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="CLASS">
+      <summary usageCount="1" lastUsed="1701929265974" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="33" lastUsed="1702540558683" />
+    </fileType>
+    <fileType name="GitIgnore file">
+      <summary usageCount="5" lastUsed="1700810336793" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="2" lastUsed="1702546805673" />
+    </fileType>
+    <fileType name="HTML">
+      <summary usageCount="10" lastUsed="1700816304347" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="25" lastUsed="1702540918400" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1700804384577" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="3" lastUsed="1700810978565" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>head</find>
+      <find>&lt;head&gt;</find>
+      <find>ami</find>
+      <find>admin</find>
+      <find>tnlq</find>
+      <find>알아서</find>
+      <find>layout:fragment=&quot;content</find>
+      <find>555636f7043b85cbdad2d8b1a4eddb259f1bad90</find>
+      <find>f9321be0d1d092a059942bcb8d17249c6d6cc1df</find>
+      <find>wing</find>
+      <find>배송이 불가능한</find>
+      <find>박스당</find>
+      <find>deliveryRequest</find>
+      <find>deliveryRequest&quot;</find>
+      <find>delivery/request</find>
+      <find>&quot;naver-site-verification</find>
+      <find>&quot;naver-site-verificationDeliveryController</find>
+      <find>DeliveryController</find>
+      <find>library</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/resources/templates/layout</dir>
+      <dir>$PROJECT_DIR$/src/main/resources/templates/delivery</dir>
+      <dir>$PROJECT_DIR$/src/main/resources/templates/mob/delivery</dir>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/wing</dir>
+      <dir>$PROJECT_DIR$/src/main/resources/templates</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/resources/templates/index.html" />
+      <option value="$PROJECT_DIR$/src/main/resources/templates/mob/delivery/deliveryRequest.html" />
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/src/main/resources/templates/delivery/deliveryRequest.html" />
+      <option value="$PROJECT_DIR$/src/main/resources/templates/layout/mainLayout.html" />
+      <option value="$PROJECT_DIR$/src/main/resources/templates/moduleADScript.html" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/wing/modules/delivery/DeliveryController.java" />
+      <option value="$PROJECT_DIR$/build.gradle" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="5" lastUsage="1700810336793" />
+    </language>
+    <language id="Groovy">
+      <summary usageCount="2" lastUsage="1702546805673" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="10" lastUsage="1700816304347" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="25" lastUsage="1702540918400" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1700804384577" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="3" lastUsage="1700810978565" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr/wing}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr/wing}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr/wing/infra}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-wing-ui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr/wing}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-wing-ui/src/main/java/co/kr/wing/modules}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Spring Boot.Application" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="34535000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Commit" weight="0.22636719" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Persistence" order="1" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.17994791" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Structure" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.42242646" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.329682" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.40035337" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
+      <window_info anchor="right" id="Gradle" weight="0.32994792" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="0" />
+      <window_info anchor="right" id="JSON Formatter" order="1" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="2" />
+      <window_info anchor="right" id="Translation.Wordbook" order="3" side_tool="true" />
+      <window_info anchor="right" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Notifications" order="6" weight="0.25" />
+      <unified_weights bottom="0.42242646" left="0.17994791" right="0.32994792" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" id="Commit" visible="true" weight="0.22636719" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Persistence" order="1" show_stripe_button="false" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="2" weight="0.1451172" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Structure" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.42226148" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40035337" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" />
+      <window_info anchor="bottom" id="Profiler" order="10" />
+      <window_info anchor="bottom" id="Build" order="11" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
+      <window_info anchor="right" id="Gradle" weight="0.3298828" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="0" />
+      <window_info anchor="right" id="JSON Formatter" order="1" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="2" />
+      <window_info anchor="right" id="Translation.Wordbook" order="3" side_tool="true" />
+      <window_info anchor="right" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Notifications" order="6" weight="0.25" />
+      <unified_weights bottom="0.42226148" left="0.22636719" right="0.3298828" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Version Control</value>
+      <value>Build</value>
+      <value>Run</value>
+      <value>Commit</value>
+      <value>Debug</value>
+      <value>Gradle</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="25" width="2560" height="1330" key="DiffContextDialog" timestamp="1702540993785">
+      <screen x="0" y="25" width="2560" height="1361" />
+    </state>
+    <state x="2660" y="125" width="2360" height="1215" key="DiffContextDialog/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700816318690" />
+    <state x="0" y="38" width="1728" height="1003" key="DiffContextDialog/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439314" />
+    <state x="0" y="25" width="2560" height="1330" key="DiffContextDialog/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@0.25.2560.1361" timestamp="1702540993785" />
+    <state width="2516" height="538" key="GridCell.Tab.0.bottom" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.0.bottom/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334923" />
+    <state width="2516" height="538" key="GridCell.Tab.0.bottom/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state width="2516" height="538" key="GridCell.Tab.0.center" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.0.center/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334923" />
+    <state width="2516" height="538" key="GridCell.Tab.0.center/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state width="2516" height="538" key="GridCell.Tab.0.left" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.0.left/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334922" />
+    <state width="2516" height="538" key="GridCell.Tab.0.left/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state width="2516" height="538" key="GridCell.Tab.0.right" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.0.right/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334923" />
+    <state width="2516" height="538" key="GridCell.Tab.0.right/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state width="2516" height="538" key="GridCell.Tab.1.bottom" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.1.bottom/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334923" />
+    <state width="2516" height="538" key="GridCell.Tab.1.bottom/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state width="2516" height="538" key="GridCell.Tab.1.center" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.1.center/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334923" />
+    <state width="2516" height="538" key="GridCell.Tab.1.center/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state width="2516" height="538" key="GridCell.Tab.1.left" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.1.left/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334923" />
+    <state width="2516" height="538" key="GridCell.Tab.1.left/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state width="2516" height="538" key="GridCell.Tab.1.right" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.1.right/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334923" />
+    <state width="2516" height="538" key="GridCell.Tab.1.right/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state width="2516" height="538" key="GridCell.Tab.2.bottom" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.2.bottom/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334923" />
+    <state width="2516" height="538" key="GridCell.Tab.2.bottom/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state width="2516" height="538" key="GridCell.Tab.2.center" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.2.center/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334923" />
+    <state width="2516" height="538" key="GridCell.Tab.2.center/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state width="2516" height="538" key="GridCell.Tab.2.left" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.2.left/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334923" />
+    <state width="2516" height="538" key="GridCell.Tab.2.left/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state width="2516" height="538" key="GridCell.Tab.2.right" timestamp="1700893439284">
+      <screen x="0" y="38" width="1728" height="1027" />
+    </state>
+    <state width="2516" height="538" key="GridCell.Tab.2.right/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700815334923" />
+    <state width="2516" height="538" key="GridCell.Tab.2.right/0.38.1728.1027@0.38.1728.1027" timestamp="1700893439284" />
+    <state x="576" y="226" key="SettingsEditor" timestamp="1704627962335">
+      <screen x="0" y="25" width="1920" height="998" />
+    </state>
+    <state x="576" y="227" key="SettingsEditor/0.25.1920.1003/1920.25.1920.1055@0.25.1920.1003" timestamp="1701917274469" />
+    <state x="3328" y="310" key="SettingsEditor/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700805301128" />
+    <state x="576" y="226" key="SettingsEditor/1920.25.1920.1055/0.25.1920.998@0.25.1920.998" timestamp="1704627962335" />
+    <state x="1080" y="625" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1702547296118">
+      <screen x="0" y="25" width="2560" height="1361" />
+    </state>
+    <state x="1080" y="625" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@0.25.2560.1361" timestamp="1702547296118" />
+    <state x="406" y="85" width="1217" height="744" key="find.popup" timestamp="1701915803316">
+      <screen x="0" y="25" width="1920" height="1003" />
+    </state>
+    <state x="406" y="85" width="1217" height="744" key="find.popup/0.25.1920.1003/1920.25.1920.1055@0.25.1920.1003" timestamp="1701915803316" />
+    <state x="3101" y="110" width="1622" height="1049" key="find.popup/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700814709329" />
+    <state x="935" y="337" width="836" height="667" key="search.everywhere.popup" timestamp="1702546805643">
+      <screen x="0" y="25" width="2560" height="1361" />
+    </state>
+    <state x="3495" y="349" width="836" height="693" key="search.everywhere.popup/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700814751186" />
+    <state x="935" y="337" width="836" height="667" key="search.everywhere.popup/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@0.25.2560.1361" timestamp="1702546805643" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/delivery/deliveryRequest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="988" column="49" selection-start-line="988" selection-start-column="49" selection-end-line="988" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="32" column="11" selection-start-line="32" selection-start-column="11" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="116" column="12" selection-start-line="116" selection-start-column="12" selection-end-line="116" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/mob/delivery/deliveryRequest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4245">
+          <caret line="1279" column="46" selection-start-line="1279" selection-start-column="46" selection-end-line="1279" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/common/MobileMenuController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="84" column="37" lean-forward="true" selection-start-line="84" selection-start-column="37" selection-end-line="84" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="e#1005#1006#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/layout/mainLayout.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#0;n#th:block#1;n#ul#1;n#div#1;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/settle/PromotionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="90" column="29" selection-start-line="90" selection-start-column="29" selection-end-line="90" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/moduleADScript.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/modules/delivery/DeliveryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="20" column="10" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../deleo-library-common/build/libs/deleo-library-common-plain.jar!/co/kr/deleo/common/client/InternalClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="31" column="81" selection-start-line="31" selection-start-column="81" selection-end-line="31" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/security/DeleoRememberMeServices.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/security/DeleoAuthFailureHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/security/DeleoKeycloakAuthenticationProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/security/DeleoLogoutSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/security/DeleoAuthenticationLoginSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/wing/infra/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="43" column="80" selection-start-line="43" selection-start-column="80" selection-end-line="43" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>deleo-wing-ui</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.27701148" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,526 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="spring-playground" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1702988136060" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="3" lastUsed="1702215944197" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="54" lastUsed="1702953827038" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1702089133630" />
+    </fileType>
+    <fileType name="YAML">
+      <summary usageCount="5" lastUsed="1702215777450" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>person</find>
+      <find>out</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/test/java/jshwang/springplayground/Test.java" />
+      <option value="$PROJECT_DIR$/src/main/java/jshwang/springplayground/Test.java" />
+      <option value="$PROJECT_DIR$/src/main/java/jshwang/springplayground/configuration/RedisConfiguration.java" />
+      <option value="$PROJECT_DIR$/src/main/java/jshwang/springplayground/repository/PersonRedisRepository.java" />
+      <option value="$PROJECT_DIR$/src/test/java/jshwang/springplayground/repository/PersonRedisRepositoryTest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/jshwang/springplayground/controller/RedisController.java" />
+      <option value="$PROJECT_DIR$/src/main/java/jshwang/springplayground/SpringPlaygroundApplication.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+      <option value="$PROJECT_DIR$/build.gradle" />
+      <option value="$PROJECT_DIR$/src/main/java/jshwang/springplayground/configuration/RedisConfig.java" />
+      <option value="$PROJECT_DIR$/src/test/java/jshwang/springplayground/repository/RedisRepositoryTest.java" />
+      <option value="$PROJECT_DIR$/src/main/java/jshwang/springplayground/domain/Person.java" />
+      <option value="$PROJECT_DIR$/src/test/java/jshwang/springplayground/repository/RedisTemplateTest.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1702988136060" />
+    </language>
+    <language id="Groovy">
+      <summary usageCount="3" lastUsage="1702215944197" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="54" lastUsage="1702953827038" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1702089133630" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="5" lastUsage="1702215777450" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/main/java/jshwang}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/main/java/jshwang}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/main/java/jshwang/springplayground}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/test/java/jshwang}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-playground" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/test/java/jshwang}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/spring-playground/src/test/java/jshwang/springplayground}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="JUnit.RedisTemplateTest.testSet" />
+      <element setting="JUnit.RedisTemplateTest.testStrings" />
+      <element setting="JUnit.RedisRepositoryTest.test" />
+      <element setting="Spring Boot.SpringPlaygroundApplication" />
+      <element setting="Gradle.RedisRepositoryTest.test" />
+      <element setting="Application.Test" />
+    </history>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="RedisRepositoryTest_test - 2023.12.10 at 22h 43m 05s.xml">
+      <configuration name="RedisRepositoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisRepositoryTest_test - 2023.12.10 at 22h 48m 02s.xml">
+      <configuration name="RedisRepositoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisRepositoryTest_test - 2023.12.10 at 22h 48m 36s.xml">
+      <configuration name="RedisRepositoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisRepositoryTest_test - 2023.12.10 at 22h 48m 47s.xml">
+      <configuration name="RedisRepositoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisRepositoryTest_test - 2023.12.10 at 22h 49m 02s.xml">
+      <configuration name="RedisRepositoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisRepositoryTest_test - 2023.12.10 at 22h 55m 15s.xml">
+      <configuration name="RedisRepositoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisRepositoryTest_test - 2023.12.10 at 22h 56m 53s.xml">
+      <configuration name="RedisRepositoryTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTemplateTest_testStrings - 2023.12.10 at 23h 02m 58s.xml">
+      <configuration name="RedisTemplateTest.testStrings" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTemplateTest_testSet - 2023.12.10 at 23h 04m 47s.xml">
+      <configuration name="RedisTemplateTest.testSet" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RedisTemplateTest_testSet - 2023.12.10 at 23h 06m 00s.xml">
+      <configuration name="RedisTemplateTest.testSet" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12434000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.12792969" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.33033174" />
+      <window_info anchor="bottom" id="Debug" order="3" show_stripe_button="false" weight="0.38815165" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.33033174" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="bottom" id="SonarLint" order="12" weight="0.32958984" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="1" />
+      <window_info anchor="right" id="Endpoints" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Translation.Wordbook" order="5" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.33033174" left="0.12792969" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.22473958" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33033174" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38815165" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.33033174" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="bottom" id="SonarLint" order="12" weight="0.32958984" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="1" />
+      <window_info anchor="right" id="Endpoints" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Translation.Wordbook" order="5" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.33033174" left="0.22473958" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1876" height="320" key="GridCell.Tab.0.bottom" timestamp="1702259582536">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1684" height="381" key="GridCell.Tab.0.bottom/0.38.1728.1025@0.38.1728.1025" timestamp="1702090652323" />
+    <state width="1876" height="381" key="GridCell.Tab.0.bottom/1093.1118.1728.1079/0.25.1920.1001/1920.25.1920.1055@1920.25.1920.1055" timestamp="1702126318094" />
+    <state width="1876" height="320" key="GridCell.Tab.0.bottom/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217226338" />
+    <state width="1876" height="320" key="GridCell.Tab.0.bottom/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259582536" />
+    <state width="1876" height="320" key="GridCell.Tab.0.center" timestamp="1702259582536">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1684" height="381" key="GridCell.Tab.0.center/0.38.1728.1025@0.38.1728.1025" timestamp="1702090652323" />
+    <state width="1876" height="381" key="GridCell.Tab.0.center/1093.1118.1728.1079/0.25.1920.1001/1920.25.1920.1055@1920.25.1920.1055" timestamp="1702126318094" />
+    <state width="1876" height="320" key="GridCell.Tab.0.center/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217226338" />
+    <state width="1876" height="320" key="GridCell.Tab.0.center/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259582536" />
+    <state width="1876" height="320" key="GridCell.Tab.0.left" timestamp="1702259582536">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1684" height="381" key="GridCell.Tab.0.left/0.38.1728.1025@0.38.1728.1025" timestamp="1702090652323" />
+    <state width="1876" height="381" key="GridCell.Tab.0.left/1093.1118.1728.1079/0.25.1920.1001/1920.25.1920.1055@1920.25.1920.1055" timestamp="1702126318094" />
+    <state width="1876" height="320" key="GridCell.Tab.0.left/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217226338" />
+    <state width="1876" height="320" key="GridCell.Tab.0.left/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259582536" />
+    <state width="1876" height="320" key="GridCell.Tab.0.right" timestamp="1702259582536">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1684" height="381" key="GridCell.Tab.0.right/0.38.1728.1025@0.38.1728.1025" timestamp="1702090652323" />
+    <state width="1876" height="381" key="GridCell.Tab.0.right/1093.1118.1728.1079/0.25.1920.1001/1920.25.1920.1055@1920.25.1920.1055" timestamp="1702126318094" />
+    <state width="1876" height="320" key="GridCell.Tab.0.right/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217226338" />
+    <state width="1876" height="320" key="GridCell.Tab.0.right/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259582536" />
+    <state width="1876" height="320" key="GridCell.Tab.1.bottom" timestamp="1702259582533">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1684" height="381" key="GridCell.Tab.1.bottom/0.38.1728.1025@0.38.1728.1025" timestamp="1702090652243" />
+    <state width="1876" height="381" key="GridCell.Tab.1.bottom/1093.1118.1728.1079/0.25.1920.1001/1920.25.1920.1055@1920.25.1920.1055" timestamp="1702126318094" />
+    <state width="1876" height="381" key="GridCell.Tab.1.bottom/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217160363" />
+    <state width="1876" height="320" key="GridCell.Tab.1.bottom/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259582533" />
+    <state width="1876" height="320" key="GridCell.Tab.1.center" timestamp="1702259582533">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1684" height="381" key="GridCell.Tab.1.center/0.38.1728.1025@0.38.1728.1025" timestamp="1702090652243" />
+    <state width="1876" height="381" key="GridCell.Tab.1.center/1093.1118.1728.1079/0.25.1920.1001/1920.25.1920.1055@1920.25.1920.1055" timestamp="1702126318094" />
+    <state width="1876" height="381" key="GridCell.Tab.1.center/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217160363" />
+    <state width="1876" height="320" key="GridCell.Tab.1.center/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259582533" />
+    <state width="1876" height="320" key="GridCell.Tab.1.left" timestamp="1702259582533">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1684" height="381" key="GridCell.Tab.1.left/0.38.1728.1025@0.38.1728.1025" timestamp="1702090652243" />
+    <state width="1876" height="381" key="GridCell.Tab.1.left/1093.1118.1728.1079/0.25.1920.1001/1920.25.1920.1055@1920.25.1920.1055" timestamp="1702126318094" />
+    <state width="1876" height="381" key="GridCell.Tab.1.left/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217160363" />
+    <state width="1876" height="320" key="GridCell.Tab.1.left/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259582533" />
+    <state width="1876" height="320" key="GridCell.Tab.1.right" timestamp="1702259582533">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1684" height="381" key="GridCell.Tab.1.right/0.38.1728.1025@0.38.1728.1025" timestamp="1702090652243" />
+    <state width="1876" height="381" key="GridCell.Tab.1.right/1093.1118.1728.1079/0.25.1920.1001/1920.25.1920.1055@1920.25.1920.1055" timestamp="1702126318094" />
+    <state width="1876" height="381" key="GridCell.Tab.1.right/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217160363" />
+    <state width="1876" height="320" key="GridCell.Tab.1.right/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259582533" />
+    <state width="1876" height="381" key="GridCell.Tab.2.bottom" timestamp="1702259581735">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1876" height="381" key="GridCell.Tab.2.bottom/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217160363" />
+    <state width="1876" height="381" key="GridCell.Tab.2.bottom/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259581735" />
+    <state width="1876" height="381" key="GridCell.Tab.2.center" timestamp="1702259581735">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1876" height="381" key="GridCell.Tab.2.center/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217160363" />
+    <state width="1876" height="381" key="GridCell.Tab.2.center/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259581735" />
+    <state width="1876" height="381" key="GridCell.Tab.2.left" timestamp="1702259581735">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1876" height="381" key="GridCell.Tab.2.left/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217160363" />
+    <state width="1876" height="381" key="GridCell.Tab.2.left/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259581735" />
+    <state width="1876" height="381" key="GridCell.Tab.2.right" timestamp="1702259581735">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="1876" height="381" key="GridCell.Tab.2.right/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702217160363" />
+    <state width="1876" height="381" key="GridCell.Tab.2.right/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702259581735" />
+    <state x="2419" y="192" key="SettingsEditor" timestamp="1702214517314">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2419" y="192" key="SettingsEditor/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702214517314" />
+    <state x="2605" y="352" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1702213970950">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2605" y="352" key="com.intellij.testIntegration.createTest.CreateTestDialog/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702213970950" />
+    <state x="2480" y="238" width="800" height="629" key="new project wizard" timestamp="1702213796022">
+      <screen x="1920" y="25" width="1920" height="1055" />
+    </state>
+    <state x="2480" y="238" width="800" height="629" key="new project wizard/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702213796022" />
+    <state x="3329" y="339" width="1350" height="958" key="search.everywhere.popup" timestamp="1702896475779">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="519" y="265" width="910" height="693" key="search.everywhere.popup/0.38.1728.1025@0.38.1728.1025" timestamp="1702089400171" />
+    <state x="2497" y="259" width="1012" height="714" key="search.everywhere.popup/1920.25.1920.1055/0.25.1920.1001@1920.25.1920.1055" timestamp="1702213587218" />
+    <state x="3329" y="339" width="1350" height="958" key="search.everywhere.popup/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1361@2560.25.2560.1415" timestamp="1702896475779" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
+          <first_editor relative-caret-position="-207" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/jshwang/springplayground/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/jshwang/springplayground/Test.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.7.15/1348b702112b318bf64583aa7ba63eee46182318/spring-boot-autoconfigure-2.7.15-sources.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="121" column="14" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+          <folding>
+            <element signature="e#2513#2514#0" expanded="true" />
+            <element signature="e#2536#2537#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.7.15/ca117ad7d0895e8f1061114766254a27889e3d66/spring-data-commons-2.7.15-sources.jar!/org/springframework/data/repository/CrudRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-commons/2.7.15/ca117ad7d0895e8f1061114766254a27889e3d66/spring-data-commons-2.7.15-sources.jar!/org/springframework/data/repository/NoRepositoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/2.7.15/1348b702112b318bf64583aa7ba63eee46182318/spring-boot-autoconfigure-2.7.15-sources.jar!/org/springframework/boot/autoconfigure/sql/init/DataSourceInitializationConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="46" column="26" selection-start-line="46" selection-start-column="26" selection-end-line="46" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jshwang/springplayground/SpringPlaygroundApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/2.7.15/f1c1eab775dd7519c704cb20a961268f0f3ea332/spring-data-redis-2.7.15-sources.jar!/org/springframework/data/redis/core/RedisHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/2.7.15/f1c1eab775dd7519c704cb20a961268f0f3ea332/spring-data-redis-2.7.15-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="107" column="83" selection-start-line="107" selection-start-column="83" selection-end-line="107" selection-end-column="83" />
+          <folding>
+            <element signature="e#41880#41881#0" expanded="true" />
+            <element signature="e#41902#41903#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.data/spring-data-redis/2.7.15/f1c1eab775dd7519c704cb20a961268f0f3ea332/spring-data-redis-2.7.15-sources.jar!/org/springframework/data/redis/core/SetOperations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="338" column="9" selection-start-line="338" selection-start-column="9" selection-end-line="338" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/jshwang/springplayground/repository/RedisTemplateTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/jshwang/springplayground/repository/RedisRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jshwang/springplayground/configuration/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jshwang/springplayground/controller/RedisController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jshwang/springplayground/repository/PersonRedisRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/jshwang/springplayground/domain/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,312 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="deleo-statistics-rs" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="3" lastUsed="1699340275101" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="1" lastUsed="1699340377964" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="20" lastUsed="1699340364699" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1699325069181" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>total</find>
+      <find>src</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/statistics/modules/dashboard/application/DashboardController.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="3" lastUsage="1699340275101" />
+    </language>
+    <language id="Groovy">
+      <summary usageCount="1" lastUsage="1699340377964" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="20" lastUsage="1699340364699" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1699325069181" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="deleo-statistics-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-statistics-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-statistics-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-statistics-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-statistics-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-statistics-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-statistics-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-statistics-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo/statistics}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-statistics-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo/statistics}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo/statistics/modules}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-statistics-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo/statistics}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo/statistics/modules}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo/statistics/modules/dashboard}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-statistics-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo/statistics}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo/statistics/modules}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo/statistics/modules/dashboard}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-statistics-rs/src/main/java/co/kr/deleo/statistics/modules/dashboard/application}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3989000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Merge Requests" />
+      <window_info id="Commit" />
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info id="Persistence" order="0" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13691406" />
+      <window_info id="Learn" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.33001477" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Spring" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="SonarLint" order="4" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Endpoints" order="0" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="0" />
+      <window_info anchor="right" id="Translation.Wordbook" order="0" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="0" weight="0.3298828" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
+      <unified_weights bottom="0.33001477" left="0.13691406" right="0.3298828" />
+    </layout>
+    <recentWindows>
+      <value>Project</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3578" y="453" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1699340340805">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3578" y="453" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.2560.1356/2560.25.2560.1415@2560.25.2560.1415" timestamp="1699340340805" />
+    <state x="3379" y="372" key="SettingsEditor" timestamp="1699340451553">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3379" y="372" key="SettingsEditor/0.25.2560.1356/2560.25.2560.1415@2560.25.2560.1415" timestamp="1699340451553" />
+    <state x="3505" y="335" width="792" height="693" key="search.everywhere.popup" timestamp="1699340377906">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3505" y="335" width="792" height="693" key="search.everywhere.popup/0.25.2560.1356/2560.25.2560.1415@2560.25.2560.1415" timestamp="1699340377906" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/statistics/modules/dashboard/dto/DashboardSimpleResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/statistics/modules/dashboard/dto/DashboardDownloadResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/statistics/modules/dashboard/dto/DashboardDeviceResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/semeru-11.0.18/Contents/Home/lib/src.zip!/java.base/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="137" column="17" selection-start-line="137" selection-start-column="17" selection-end-line="137" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/statistics/modules/dashboard/dto/DashboardDefaultResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/statistics/modules/dashboard/infra/DashboardMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/statistics/modules/dashboard/application/DashboardService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" column="63" selection-start-line="17" selection-start-column="63" selection-end-line="17" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="9" column="43" selection-start-line="9" selection-start-column="43" selection-end-line="9" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/statistics/modules/dashboard/application/DashboardController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

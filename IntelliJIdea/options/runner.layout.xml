@@ -1,5 +1,17 @@
 <application>
   <component name="RunnerLayoutSettings">
+    <runner id="Session">
+      <ViewImpl>
+        <option name="ID" value="Input" />
+        <option name="placeInGrid" value="center" />
+      </ViewImpl>
+      <TabImpl>
+        <option name="displayName" value="Session" />
+      </TabImpl>
+      <General>
+        <option name="isTabLabelsHidden" value="false" />
+      </General>
+    </runner>
     <runner id="JavaRunner">
       <ViewImpl>
         <option name="ID" value="ConsoleContent" />
@@ -14,7 +26,6 @@
         <option name="bottomProportion" value="0.0" />
       </TabImpl>
       <TabImpl>
-        <option name="bottomProportion" value="0.0" />
         <option name="defaultIndex" value="1" />
         <option name="index" value="1" />
       </TabImpl>
@@ -27,6 +38,10 @@
       <ViewImpl>
         <option name="ID" value="VariablesContent" />
         <option name="placeInGrid" value="center" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="WatchesContent" />
+        <option name="placeInGrid" value="right" />
       </ViewImpl>
       <ViewImpl>
         <option name="ID" value="ConsoleContent" />
@@ -49,18 +64,9 @@
         <option name="placeInGrid" value="right" />
       </ViewImpl>
       <ViewImpl>
-        <option name="ID" value="WatchesContent" />
-        <option name="placeInGrid" value="right" />
-      </ViewImpl>
-      <ViewImpl>
         <option name="ID" value="Actuator" />
         <option name="placeInGrid" value="bottom" />
         <option name="tabIndex" value="2" />
-      </ViewImpl>
-      <ViewImpl>
-        <option name="ID" value="XCoroutineThreadsContent" />
-        <option name="minimizedInGrid" value="true" />
-        <option name="placeInGrid" value="right" />
       </ViewImpl>
       <ViewImpl>
         <option name="ID" value="wi.structureView" />
@@ -75,12 +81,17 @@
       <ViewImpl>
         <option name="ID" value="SCRIPTS_CONTENT" />
         <option name="placeInGrid" value="bottom" />
-        <option name="tabIndex" value="2" />
+        <option name="tabIndex" value="3" />
+      </ViewImpl>
+      <ViewImpl>
+        <option name="ID" value="XCoroutineThreadsContent" />
+        <option name="minimizedInGrid" value="true" />
+        <option name="placeInGrid" value="right" />
       </ViewImpl>
       <TabImpl>
         <option name="displayName" value="Debugger" />
-        <option name="leftProportion" value="0.09366169" />
-        <option name="rightProportion" value="0.42834073" />
+        <option name="leftProportion" value="0.2262099" />
+        <option name="rightProportion" value="0.47797716" />
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
@@ -89,25 +100,14 @@
       </TabImpl>
       <TabImpl>
         <option name="bottomProportion" value="0.0" />
-        <option name="defaultIndex" value="4" />
+        <option name="defaultIndex" value="3" />
         <option name="displayName" value="Elements" />
         <option name="index" value="2" />
       </TabImpl>
-      <General>
-        <option name="isTabLabelsHidden" value="false" />
-      </General>
-    </runner>
-    <runner id="Session">
-      <ViewImpl>
-        <option name="ID" value="Input" />
-        <option name="placeInGrid" value="center" />
-      </ViewImpl>
       <TabImpl>
-        <option name="displayName" value="Session" />
+        <option name="defaultIndex" value="4" />
+        <option name="index" value="3" />
       </TabImpl>
-      <General>
-        <option name="isTabLabelsHidden" value="false" />
-      </General>
     </runner>
   </component>
 </application>

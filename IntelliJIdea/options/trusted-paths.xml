@@ -2,10 +2,7 @@
   <component name="Trusted.Paths">
     <option name="TRUSTED_PROJECT_PATHS">
       <map>
-        <entry key="$USER_HOME$/Project/HelloWorld" value="true" />
-        <entry key="$USER_HOME$/Project/deleo-admin-rs" value="true" />
-        <entry key="$USER_HOME$/Project/deleo-wms-rs" value="true" />
-        <entry key="$USER_HOME$/Project/do-it-java-programing" value="true" />
+        <entry key="$USER_HOME$/Project/learning-test-for-company" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/cert" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-admin-rs" value="true" />
@@ -13,40 +10,38 @@
         <entry key="$USER_HOME$/Project/platform-dev/deleo-carrier-rs" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-carrier-sch" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-customs-rs" value="true" />
-        <entry key="$USER_HOME$/Project/platform-dev/deleo-hrm-rs" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-library-common" value="true" />
-        <entry key="$USER_HOME$/Project/platform-dev/deleo-lms-rs" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-mms-rs" value="true" />
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-oauth2" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-oms-rs" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-payment-rs" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-portal-ui" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-settle-rs" value="true" />
+        <entry key="$USER_HOME$/Project/platform-dev/deleo-statistics-rs" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-test" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-wing-ui" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/deleo-wms-rs" value="true" />
+        <entry key="$USER_HOME$/Project/platform-dev/helm-chart" value="true" />
+        <entry key="$USER_HOME$/Project/platform-dev/keycloak" value="true" />
         <entry key="$USER_HOME$/Project/platform-dev/practical-testing-with-wbpark" value="true" />
-        <entry key="$USER_HOME$/Project/spring-batch" value="true" />
-        <entry key="$USER_HOME$/Project/spring-boot-concept-and-application-with-whiteship" value="true" />
-        <entry key="$USER_HOME$/Project/spring-jpa-first-with-yhkim" value="true" />
+        <entry key="$USER_HOME$/Project/platform-dev2" value="true" />
+        <entry key="$USER_HOME$/Project/platform-dev2/deleo-portal-ui" value="true" />
+        <entry key="$USER_HOME$/Project/spring-core-principle-with-yhkim" value="true" />
+        <entry key="$USER_HOME$/Project/spring-core-with-yhkim" value="true" />
         <entry key="$USER_HOME$/Project/spring-mvc-part-two-with-yhkim" value="true" />
         <entry key="$USER_HOME$/Project/spring-mvc-part-two-with-yhkim/exception" value="true" />
+        <entry key="$USER_HOME$/Project/spring-mvc-part-two-with-yhkim/form" value="true" />
         <entry key="$USER_HOME$/Project/spring-mvc-part-two-with-yhkim/login" value="true" />
         <entry key="$USER_HOME$/Project/spring-mvc-part-two-with-yhkim/message" value="true" />
         <entry key="$USER_HOME$/Project/spring-mvc-part-two-with-yhkim/thymeleaf-basic" value="true" />
+        <entry key="$USER_HOME$/Project/spring-mvc-part-two-with-yhkim/typeconverter" value="true" />
+        <entry key="$USER_HOME$/Project/spring-mvc-part-two-with-yhkim/upload" value="true" />
         <entry key="$USER_HOME$/Project/spring-mvc-part-two-with-yhkim/validation" value="true" />
-        <entry key="$USER_HOME$/Project/spring-mvc-with-yhkim/item-service" value="true" />
+        <entry key="$USER_HOME$/Project/spring-playground" value="true" />
         <entry key="$USER_HOME$/Project/spring-template" value="true" />
-        <entry key="$USER_HOME$/Project/springbatch" value="true" />
         <entry key="$USER_HOME$/Project/today-i-learn" value="true" />
         <entry key="$USER_HOME$/Project/today-i-learn/spring/toby-spring" value="true" />
       </map>
-    </option>
-  </component>
-  <component name="Trusted.Paths.Settings">
-    <option name="TRUSTED_PATHS">
-      <list>
-        <option value="$USER_HOME$/Project" />
-      </list>
     </option>
   </component>
 </application>

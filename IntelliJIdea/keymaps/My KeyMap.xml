@@ -1,0 +1,30 @@
+<keymap version="1" name="My KeyMap" parent="Mac OS X 10.5+">
+  <action id="ExternalSystem_4a7e6afbplatform-dev4a7e6afbbuild">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="ExternalSystem_4a7e6afbplatform-dev4a7e6afbclean">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ExternalSystem_4cf117f4platform-dev4cf117f4build">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="ExternalSystem_4cf117f4platform-dev4cf117f4clean">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ExternalSystem_5ae897bdplatform-dev5ae897bdtest">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="ExternalSystem_d32fd8e3PracticeJavad32fd8e3test">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
+  <action id="IntentionActionAsAction_com.intellij.codeInsight.intention.impl.AddSingleMemberStaticImportAction">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
+  <action id="XDebugger.MuteBreakpoints">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="copilot.disposeInlays" />
+</keymap>

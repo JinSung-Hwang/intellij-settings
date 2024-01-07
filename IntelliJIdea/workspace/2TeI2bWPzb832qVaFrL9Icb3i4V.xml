@@ -6,38 +6,67 @@
       </GroupState>
     </option>
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file>
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
   </component>
   <component name="FileTypeUsageLocalSummary">
-    <fileType name="Gradle">
-      <summary usageCount="1" lastUsed="1691396923292" />
+    <fileType name="CLASS">
+      <summary usageCount="1" lastUsed="1703752957155" />
     </fileType>
-    <fileType name="Markdown">
-      <summary usageCount="1" lastUsed="1691396914745" />
-    </fileType>
-    <fileType name="YAML">
-      <summary usageCount="1" lastUsed="1691396924056" />
+    <fileType name="JAVA">
+      <summary usageCount="38" lastUsed="1703811402391" />
     </fileType>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>library</find>
+      <find>v1/promotion/content</find>
+      <find>aoscon</find>
+      <find>v1/shipping/fee/b2c/search</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/promotionContent</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/promotionContent" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/build.gradle" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/promotionContent/domain/PromotionContent.java" />
+      <option value="$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/promotionContent/application/PromotionContentService.java" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -48,14 +77,8 @@
     </option>
   </component>
   <component name="LanguageUsageStatistics">
-    <language id="Groovy">
-      <summary usageCount="1" lastUsage="1691396923292" />
-    </language>
-    <language id="Markdown">
-      <summary usageCount="1" lastUsage="1691396914745" />
-    </language>
-    <language id="yaml">
-      <summary usageCount="1" lastUsage="1691396924056" />
+    <language id="JAVA">
+      <summary usageCount="38" lastUsage="1703811402391" />
     </language>
   </component>
   <component name="ProjectView">
@@ -74,6 +97,83 @@
               <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src}" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="deleo-settle-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-settle-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-settle-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-settle-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-settle-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules/rate}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-settle-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules/rate}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules/rate/weight}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-settle-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules/rate}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules/rate/weight}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules/rate/weight/application}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-settle-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/platform-dev/deleo-settle-rs/src/main/java/co/kr/deleo/settle/rs/modules/shipping/application}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="deleo-settle-rs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -82,64 +182,166 @@
     </panes>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="146000" />
+    <option name="totallyTimeSpent" value="21485000" />
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layout>
       <window_info id="Bookmarks" order="0" side_tool="true" />
-      <window_info id="Structure" order="0" side_tool="true" />
-      <window_info id="Persistence" order="0" show_stripe_button="false" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18255208" />
-      <window_info id="Learn" order="0" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="3" weight="0.14088541" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.329682" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40035337" />
       <window_info anchor="bottom" id="Profiler" order="4" />
-      <window_info anchor="bottom" id="Build" order="4" />
-      <window_info anchor="bottom" id="Dependencies" order="4" />
-      <window_info anchor="bottom" id="TODO" order="4" />
-      <window_info anchor="bottom" id="Java Enterprise" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Problems View" order="4" />
-      <window_info anchor="bottom" id="Spring" order="4" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
       <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
-      <window_info anchor="right" id="PlantUML" order="0" />
-      <window_info anchor="right" id="Endpoints" order="0" />
-      <window_info anchor="right" id="Database" order="0" />
-      <window_info anchor="right" id="Gradle" order="0" />
-      <window_info anchor="right" id="Notifications" order="0" weight="0.25" />
-      <unified_weights left="0.18255208" />
+      <window_info anchor="right" id="Key Promoter X" order="1" />
+      <window_info anchor="right" id="Endpoints" order="2" weight="0.3298828" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Translation.Wordbook" order="5" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.40035337" left="0.14088541" right="0.3298828" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Bookmarks" order="0" side_tool="true" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.14088541" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.329682" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40035337" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="1" />
+      <window_info anchor="right" id="Endpoints" order="2" weight="0.3298828" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Translation.Wordbook" order="5" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.40035337" left="0.14088541" right="0.3298828" />
+    </layout-to-restore>
     <recentWindows>
       <value>Project</value>
+      <value>Debug</value>
+      <value>Version Control</value>
+      <value>Endpoints</value>
     </recentWindows>
   </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="186" key="SettingsEditor" timestamp="1704627797231">
+      <screen x="0" y="25" width="1920" height="998" />
+    </state>
+    <state x="520" y="186" key="SettingsEditor/1920.25.1920.1055/0.25.1920.998@0.25.1920.998" timestamp="1704627797231" />
+    <state x="3379" y="372" key="SettingsEditor/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1358@2560.25.2560.1415" timestamp="1703813953068" />
+    <state width="651" height="629" key="SwitcherDM" timestamp="1703820298841">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="651" height="629" key="SwitcherDM/0.25.2560.1363/2560.25.2560.1415@2560.25.2560.1415" timestamp="1700727800026" />
+    <state width="651" height="629" key="SwitcherDM/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1358@2560.25.2560.1415" timestamp="1703820298841" />
+    <state x="3255" y="239" width="576" height="502" key="find.popup" timestamp="1703752448582">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3255" y="239" width="576" height="502" key="find.popup/2560.25.2560.1415/0.25.2560.1363@2560.25.2560.1415" timestamp="1700620009492" />
+    <state x="3255" y="239" width="576" height="502" key="find.popup/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1358@2560.25.2560.1415" timestamp="1703752448582" />
+    <state x="3495" y="349" width="910" height="693" key="search.everywhere.popup" timestamp="1703820297604">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3495" y="349" width="910" height="693" key="search.everywhere.popup/5120.361.1728.1079/2560.25.2560.1415/0.25.2560.1358@2560.25.2560.1415" timestamp="1703820297604" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SHOW_EDITOR" is_vertical_split="false">
-          <first_editor relative-caret-position="120">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/promotionContent/application/PromotionContentService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="138" selection-start-line="138" selection-end-line="138" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/promotionContent/dto/PromotionContentUpdate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="483">
+          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/promotionContent/domain/PromotionContent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="399">
+          <caret line="47" column="133" selection-start-line="47" selection-start-column="133" selection-end-line="47" selection-end-column="133" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/promotionContent/dto/PromotionContentSearchResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="33" column="17" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/promotionContent/infra/PromotionContentRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/promotionContent/application/PromotionContentExternalController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../deleo-library-common/build/libs/deleo-library-common-plain.jar!/co/kr/deleo/common/code/RateTypeCode.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/rate/weight/application/WeightRateService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="59" column="65" selection-start-line="59" selection-start-column="65" selection-end-line="59" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/shipping/application/ShippingFeeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="67" column="63" selection-start-line="67" selection-start-column="63" selection-end-line="67" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/settle/rs/modules/shipping/application/ShippingFeeExternalController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
         </state>
       </provider>
     </entry>

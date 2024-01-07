@@ -4,7 +4,7 @@
     <property name="created">2023-10-11T10:19:48</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2023.2.2.0.0</property>
-    <property name="modified">2023-10-17T15:45:42</property>
+    <property name="modified">2024-01-07T23:06:34</property>
     <property name="originalScheme">Material Darker</property>
     <property name="partialSave">true</property>
     <property name="pluginId">com.mallowigi.idea</property>
@@ -18,14 +18,31 @@
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="GUTTER_BACKGROUND" value="0" />
+    <option name="RECENT_LOCATIONS_SELECTION" value="0" />
     <option name="SELECTION_BACKGROUND" value="0" />
   </colors>
   <attributes>
+    <option name="CTRL_CLICKABLE">
+      <value>
+        <option name="FOREGROUND" value="f78c6c" />
+        <option name="EFFECT_COLOR" value="f78c6c" />
+      </value>
+    </option>
+    <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
+      <value>
+        <option name="BACKGROUND" value="2b2b2b" />
+      </value>
+    </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="eeffff" />
         <option name="BACKGROUND" value="0" />
         <option name="EFFECT_TYPE" value="5" />
+      </value>
+    </option>
+    <option name="XML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
   </attributes>

@@ -1,0 +1,398 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="learning-test-for-company" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/co/kr/deleo/learning/StringUtilsLearningTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="GitIgnore file">
+      <summary usageCount="1" lastUsed="1698641440143" />
+    </fileType>
+    <fileType name="Gradle">
+      <summary usageCount="3" lastUsed="1698842120790" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="8" lastUsed="1698842756009" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="1" lastUsed="1698841319739" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>deleo</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/.gitignore" />
+      <option value="$PROJECT_DIR$/src/test/java/co/kr/deleo/learningtest/LearningTestApplicationTests.java" />
+      <option value="$PROJECT_DIR$/readme.md" />
+      <option value="$PROJECT_DIR$/src/test/java/co/kr/deleo/learning/StringUteilsLearningTest.java" />
+      <option value="$PROJECT_DIR$/src/test/java/co/kr/deleo/learning/StringUtilsLearningTest.java" />
+      <option value="$PROJECT_DIR$/build.gradle" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="GitIgnore">
+      <summary usageCount="1" lastUsage="1698641440143" />
+    </language>
+    <language id="Groovy">
+      <summary usageCount="3" lastUsage="1698842120790" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="8" lastUsage="1698842756009" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1698841319739" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java/co/kr/deleo}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java/co/kr/deleo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/main/java/co/kr/deleo/learningtest}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co/kr/deleo}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co/kr/deleo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co/kr/deleo/learning}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-test" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co/kr}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co/kr/deleo}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///Users/jinsunghwang/Project/learning-test-for-company/src/test/java/co/kr/deleo/learningtest}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Gradle.StringUtilsLearningTest.StringUtilsTest1" />
+      <element setting="Spring Boot.LearningTestApplication" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local">
+        <shellCommand>
+          <arg value="/bin/zsh" />
+          <arg value="--login" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StringUtilsLearningTest_StringUtilsTest1 - 2023.11.01 at 21h 44m 30s.xml">
+      <configuration name="StringUtilsLearningTest.StringUtilsTest1" configurationId="GradleRunConfiguration" />
+    </history-entry>
+    <history-entry file="StringUtilsLearningTest_StringUtilsTest1 - 2023.11.01 at 21h 45m 48s.xml">
+      <configuration name="StringUtilsLearningTest.StringUtilsTest1" configurationId="GradleRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3229000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info id="Commit" weight="0.3298828" />
+      <window_info id="Bookmarks" order="0" side_tool="true" weight="0.13261719" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Persistence" order="2" show_stripe_button="false" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.13261719" />
+      <window_info id="Learn" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.329682" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329682" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.329682" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40035337" />
+      <window_info anchor="bottom" id="Profiler" order="4" />
+      <window_info anchor="bottom" id="Build" order="5" weight="0.329682" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="8" />
+      <window_info anchor="bottom" id="Spring" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.329682" />
+      <window_info anchor="bottom" id="Services" order="11" />
+      <window_info anchor="bottom" id="SonarLint" order="12" weight="0.329682" />
+      <window_info anchor="right" id="JSON Formatter" order="0" side_tool="true" />
+      <window_info anchor="right" id="Key Promoter X" order="1" />
+      <window_info anchor="right" id="Endpoints" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="github.copilotToolWindow" order="4" />
+      <window_info anchor="right" id="Translation.Wordbook" order="5" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="6" />
+      <window_info anchor="right" id="Notifications" order="7" weight="0.25" />
+      <unified_weights bottom="0.40035337" left="0.13261719" />
+    </layout>
+    <recentWindows>
+      <value>Run</value>
+      <value>Debug</value>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Version Control</value>
+      <value>Bookmarks</value>
+      <value>Commit</value>
+      <value>SonarLint</value>
+      <value>Find</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2516" height="438" key="GridCell.Tab.0.bottom" timestamp="1698843028463">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2516" height="438" key="GridCell.Tab.0.bottom/2560.25.2560.1415/0.25.2560.1356@2560.25.2560.1415" timestamp="1698843028463" />
+    <state width="2516" height="438" key="GridCell.Tab.0.center" timestamp="1698843028463">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2516" height="438" key="GridCell.Tab.0.center/2560.25.2560.1415/0.25.2560.1356@2560.25.2560.1415" timestamp="1698843028463" />
+    <state width="2516" height="438" key="GridCell.Tab.0.left" timestamp="1698843028463">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2516" height="438" key="GridCell.Tab.0.left/2560.25.2560.1415/0.25.2560.1356@2560.25.2560.1415" timestamp="1698843028463" />
+    <state width="2516" height="438" key="GridCell.Tab.0.right" timestamp="1698843028463">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state width="2516" height="438" key="GridCell.Tab.0.right/2560.25.2560.1415/0.25.2560.1356@2560.25.2560.1415" timestamp="1698843028463" />
+    <state x="3379" y="372" key="SettingsEditor" timestamp="1698640779240">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3379" y="372" key="SettingsEditor/2560.25.2560.1415/0.25.2560.1356@2560.25.2560.1415" timestamp="1698640779240" />
+    <state x="3570" y="482" width="540" height="524" key="StructurePopup" timestamp="1698641133002">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3570" y="482" width="540" height="524" key="StructurePopup/2560.25.2560.1415/0.25.2560.1356@2560.25.2560.1415" timestamp="1698641133002" />
+    <state x="3440" y="447" key="Vcs.Push.Dialog.v2" timestamp="1698641377953">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3440" y="447" key="Vcs.Push.Dialog.v2/2560.25.2560.1415/0.25.2560.1356@2560.25.2560.1415" timestamp="1698641377953" />
+    <state x="3495" y="349" key="search.everywhere.popup" timestamp="1698842818701">
+      <screen x="2560" y="25" width="2560" height="1415" />
+    </state>
+    <state x="3495" y="349" key="search.everywhere.popup/2560.25.2560.1415/0.25.2560.1356@2560.25.2560.1415" timestamp="1698842818701" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/co/kr/deleo/learningtest/LearningTestApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/co/kr/deleo/learningtest/LearningTestApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.junit.platform/junit-platform-commons/1.9.3/86401c81baae1d05c5dc76d3e40c1b9397384eda/junit-platform-commons-1.9.3-sources.jar!/org/junit/platform/commons/util/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="33" column="19" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="46">
+            <caret line="2" column="47" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/co/kr/deleo/learning/StringUtilsLearningTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="52" column="51" selection-start-line="52" selection-start-column="51" selection-end-line="52" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

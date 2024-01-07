@@ -13,7 +13,7 @@ intellij에서 설정이 꼬였을때 settings history가 없어서 복구할 �
 1. 왼쪽 상단 메뉴에 File 메뉴 클릭하기
 1. Manage IDE Settings 메뉴 클릭하기
 1. Import Settings 메뉴 클릭하기
-1. 이 저장소에 IntelliJIdea디렉토리 선택하기
+1. 이 저장소에 IntelliJIdea디렉토리 선택하기 또는 settings.zip 선택하기 (setting.zip은 세팅이 완벽하게 이전이 안될 수 있고 plugin을 다시 받아야한다.)
 1. Open 버튼 클릭하기
 
 

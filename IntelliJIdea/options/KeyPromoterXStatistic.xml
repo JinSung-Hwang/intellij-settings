@@ -6,8 +6,8 @@
           <IdeaActionID>Back</IdeaActionID>
           <ShortCut>'⌘[' or '⌥⌘←'</ShortCut>
           <Description>Back</Description>
-          <Count>233</Count>
-          <Hit>126</Hit>
+          <Count>1226</Count>
+          <Hit>212</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Bookmarks">
@@ -16,7 +16,15 @@
           <ShortCut>'⌘2'</ShortCut>
           <Description>Bookmarks</Description>
           <Count>2</Count>
-          <Hit>6</Hit>
+          <Hit>27</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Code With Me">
+        <Item>
+          <IdeaActionID>CWMHostShowPopupAction</IdeaActionID>
+          <ShortCut>'⌃⇧Y'</ShortCut>
+          <Description>Code With Me</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Commit">
@@ -24,8 +32,8 @@
           <IdeaActionID>ActivateCommitToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Commit</Description>
-          <Count>8</Count>
-          <Hit>82</Hit>
+          <Count>19</Count>
+          <Hit>765</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Commit...">
@@ -33,7 +41,8 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'⌘K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
+          <Hit>76</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -42,7 +51,16 @@
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
           <Count>1</Count>
-          <Hit>729</Hit>
+          <Hit>4275</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Cut">
+        <Item>
+          <IdeaActionID>$Cut</IdeaActionID>
+          <ShortCut>'⌘X' or '⇧⌦'</ShortCut>
+          <Description>Cut</Description>
+          <Count>1</Count>
+          <Hit>24</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Data Source Properties">
@@ -50,7 +68,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'⌘I'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>1</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -58,8 +76,8 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug</Description>
-          <Count>95</Count>
-          <Hit>82</Hit>
+          <Count>458</Count>
+          <Hit>3465</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Delete…">
@@ -67,7 +85,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
           <Description>Delete…</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Directory">
@@ -75,7 +93,7 @@
           <IdeaActionID>ChangesView.GroupBy.Directory</IdeaActionID>
           <ShortCut>'⌃P'</ShortCut>
           <Description>Directory</Description>
-          <Count>4</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disable Completions">
@@ -86,12 +104,30 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Duplicate Watch">
+        <Item>
+          <IdeaActionID>XDebugger.CopyWatch</IdeaActionID>
+          <ShortCut>'⌘D'</ShortCut>
+          <Description>Duplicate Watch</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Evaluate Expression...">
         <Item>
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
+          <Count>2</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expand All">
+        <Item>
+          <IdeaActionID>ExpandAll</IdeaActionID>
+          <ShortCut>'⌘+' or '⌘='</ShortCut>
+          <Description>Expand All</Description>
           <Count>1</Count>
+          <Hit>4</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Forward">
@@ -99,7 +135,17 @@
           <IdeaActionID>Forward</IdeaActionID>
           <ShortCut>'⌘]' or '⌥⌘→'</ShortCut>
           <Description>Forward</Description>
+          <Count>13</Count>
+          <Hit>16</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Git">
+        <Item>
+          <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
+          <ShortCut>'⌘9'</ShortCut>
+          <Description>Git</Description>
           <Count>3</Count>
+          <Hit>945</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Go to Declaration or Usages">
@@ -107,8 +153,17 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'⌘B'</ShortCut>
           <Description>Go to Declaration or Usages</Description>
-          <Count>532</Count>
-          <Hit>85</Hit>
+          <Count>2939</Count>
+          <Hit>482</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Go to Type Declaration">
+        <Item>
+          <IdeaActionID>GotoTypeDeclaration</IdeaActionID>
+          <ShortCut>'⇧⌘B' or '⌃⇧B'</ShortCut>
+          <Description>Go to Type Declaration</Description>
+          <Count>4</Count>
+          <Hit>12</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -116,7 +171,33 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>11</Count>
+          <Count>51</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Load Gradle Changes">
+        <Item>
+          <IdeaActionID>ExternalSystem.ProjectRefreshAction</IdeaActionID>
+          <ShortCut>'⇧⌘I'</ShortCut>
+          <Description>Load Gradle Changes</Description>
+          <Count>10</Count>
+          <Hit>2</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Module">
+        <Item>
+          <IdeaActionID>ChangesView.GroupBy.Module</IdeaActionID>
+          <ShortCut>'⌃M'</ShortCut>
+          <Description>Module</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Paste">
+        <Item>
+          <IdeaActionID>$Paste</IdeaActionID>
+          <ShortCut>'⌘V'</ShortCut>
+          <Description>Paste</Description>
+          <Count>1</Count>
+          <Hit>1943</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Problems">
@@ -124,8 +205,8 @@
           <IdeaActionID>ActivateProblemsViewToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>Problems</Description>
-          <Count>3</Count>
-          <Hit>2</Hit>
+          <Count>5</Count>
+          <Hit>29</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -133,8 +214,8 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>24</Count>
-          <Hit>569</Hit>
+          <Count>149</Count>
+          <Hit>1887</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Quick Evaluate Expression">
@@ -142,7 +223,7 @@
           <IdeaActionID>QuickEvaluateExpression</IdeaActionID>
           <ShortCut>'⌥⌘F8'</ShortCut>
           <Description>Quick Evaluate Expression</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -150,7 +231,16 @@
           <IdeaActionID>DatabaseView.Refresh</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Refresh</Description>
-          <Count>1</Count>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Watch">
+        <Item>
+          <IdeaActionID>XDebugger.RemoveWatch</IdeaActionID>
+          <ShortCut>'⌦' or '⌫' or '⌘⌫'</ShortCut>
+          <Description>Remove Watch</Description>
+          <Count>18</Count>
+          <Hit>28</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Restore Windows">
@@ -158,7 +248,25 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>5</Count>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Resume Program">
+        <Item>
+          <IdeaActionID>Resume</IdeaActionID>
+          <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
+          <Description>Resume Program</Description>
+          <Count>12</Count>
+          <Hit>387</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rollback…">
+        <Item>
+          <IdeaActionID>ChangesView.Revert</IdeaActionID>
+          <ShortCut>'⌥⌘Z'</ShortCut>
+          <Description>Rollback…</Description>
+          <Count>33</Count>
+          <Hit>3</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Run">
@@ -166,8 +274,16 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run</Description>
+          <Count>6</Count>
+          <Hit>227</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run to Cursor">
+        <Item>
+          <IdeaActionID>RunToCursor</IdeaActionID>
+          <ShortCut>'⌥F9'</ShortCut>
+          <Description>Run to Cursor</Description>
           <Count>3</Count>
-          <Hit>50</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Services">
@@ -176,7 +292,16 @@
           <ShortCut>'⌘8'</ShortCut>
           <Description>Services</Description>
           <Count>2</Count>
-          <Hit>17</Hit>
+          <Hit>77</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Set Value...">
+        <Item>
+          <IdeaActionID>XDebugger.SetValue</IdeaActionID>
+          <ShortCut>'F2'</ShortCut>
+          <Description>Set Value...</Description>
+          <Count>4</Count>
+          <Hit>16</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Shelve Silently">
@@ -184,7 +309,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'⇧⌘H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram Popup…">
@@ -193,7 +318,7 @@
           <ShortCut>'⌥⌘U'</ShortCut>
           <Description>Show Diagram Popup…</Description>
           <Count>1</Count>
-          <Hit>9</Hit>
+          <Hit>10</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram…">
@@ -204,12 +329,68 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Quick-Fixes">
+        <Item>
+          <IdeaActionID>ProblemsView.QuickFixes</IdeaActionID>
+          <ShortCut>'⌥⏎'</ShortCut>
+          <Description>Show Quick-Fixes</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Translation Dialog...">
+        <Item>
+          <IdeaActionID>$ShowTranslationDialogAction</IdeaActionID>
+          <ShortCut>'⌃⌘I'</ShortCut>
+          <Description>Show Translation Dialog...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop">
+        <Item>
+          <IdeaActionID>RunDashboard.Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop '/Users/jinsunghwang/Project/platform-dev/deleo-library-common [clean]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop '/Users/jinsunghwang/Project/platform-dev/deleo-library-common [clean]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Application'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Application'</Description>
-          <Count>48</Count>
+          <Count>268</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ItemServiceApplication (1)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ItemServiceApplication (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ItemServiceApplication (2)'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ItemServiceApplication (2)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'ItemServiceApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ItemServiceApplication'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'JQOO10ShopHandlerTest.asyncItem'">
@@ -220,11 +401,59 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'ThymeleafBasicApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'ThymeleafBasicApplication'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'UploadApplication'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'UploadApplication'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'deleo-admin-rs [build]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'deleo-admin-rs [build]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'deleo-carrier-rs [test]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'deleo-carrier-rs [test]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'deleo-library-common [build]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'deleo-library-common [build]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'deleo-oms-rs [build]'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'deleo-oms-rs [build]'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'deleo-portal-ui [build]'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'deleo-portal-ui [build]'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -233,7 +462,15 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Strikethrough">
+        <Item>
+          <IdeaActionID>org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction</IdeaActionID>
+          <ShortCut>'⇧⌘S'</ShortCut>
+          <Description>Strikethrough</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -242,7 +479,7 @@
           <ShortCut>'⌘7'</ShortCut>
           <Description>Structure</Description>
           <Count>2</Count>
-          <Hit>19</Hit>
+          <Hit>69</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -250,7 +487,8 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>2</Count>
+          <Count>4</Count>
+          <Hit>17</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -258,8 +496,8 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'⌘F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>126</Count>
-          <Hit>12</Hit>
+          <Count>696</Count>
+          <Hit>177</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Translate">
@@ -268,7 +506,7 @@
           <ShortCut>'⌃⌘U'</ShortCut>
           <Description>Translate</Description>
           <Count>1</Count>
-          <Hit>3</Hit>
+          <Hit>7</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Translate and Replace...">
@@ -284,8 +522,17 @@
           <IdeaActionID>Git.Log.Branches.Change.Branch.Filter</IdeaActionID>
           <ShortCut>'⏎'</ShortCut>
           <Description>Update Branch Filter in Log</Description>
-          <Count>6</Count>
-          <Hit>3</Hit>
+          <Count>195</Count>
+          <Hit>32</Hit>
+        </Item>
+      </Statistic>
+      <Statistic Action="Update Project...">
+        <Item>
+          <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
+          <ShortCut>'⌘T'</ShortCut>
+          <Description>Update Project...</Description>
+          <Count>1</Count>
+          <Hit>21</Hit>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
@@ -293,7 +540,8 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>1</Count>
+          <Count>8</Count>
+          <Hit>3</Hit>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">

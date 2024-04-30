@@ -1,0 +1,1205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f449516e-2241-4b07-ac26-8af0c46c193e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/codestyles/Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/codestyles/GoogleStyle copy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/codestyles/GoogleStyle copy1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/codestyles/GoogleStyle copy2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/codestyles/GoogleStyle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/Atom One Dark.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/Dracula.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/Light Owl.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/Material Darker.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/Material Deep Ocean.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/Material Forest.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/Material Oceanic.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/Material Volcano.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/Moonlight.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/Night Owl.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/Synthwave.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/_@user_IntelliJ Light.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/colors/_@user_Material Darker.icls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/disabled_plugins.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/early-access-registry.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/aggregators/AVG.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/aggregators/COEFFICIENT_OF_VARIATION.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/aggregators/COLS.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/aggregators/COUNT.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/aggregators/COUNT_NUMS.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/aggregators/MAX.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/aggregators/MEDIAN.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/aggregators/MIN.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/aggregators/ROWS.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/aggregators/SUM.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/extractors/CSV-Groovy.csv.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/extractors/HTML-Groovy.html.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/extractors/HTML-JavaScript.html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/extractors/JSON-Groovy.json.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/extractors/Markdown-Groovy.md.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/extractors/One-row.sql.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/extractors/Pretty-Groovy.txt.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/extractors/SQL-Insert-Multirow.sql.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/extractors/SQL-Insert-Statements.sql.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/data/extractors/XML-Groovy.xml.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/schema.layouts/File per object by schema and database.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/schema.layouts/File per object by schema and type.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/schema.layouts/File per object by schema.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/schema.layouts/File per object with order.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/schema.layouts/File per object.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.database/schema/Generate POJOs.groovy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/extensions/com.intellij.java/predefinedExternalAnnotations.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/global-model-cache/.invalidate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/idea.key" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/jdbc-drivers/jdbc-drivers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/keymaps/My KeyMap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/migration/JUnit4__5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/migration/JavaFx8__9.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/migration/javax-to-jakarta.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/AquaNewUserFeedbackService.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/AquaOldUserFeedbackService.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/ChartsStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/KeyPromoterXSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/KeyPromoterXStatistic.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/actionSummary.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/advancedSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/asciidoc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/atom-icon-associations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/baseRefactoring.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/code.style.schemes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/colors.scheme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/console-font.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/csvSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/customization.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/dataViewsSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/databaseDrivers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/databaseSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/debugger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/diff.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/docker-tools.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/editor-font.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/features.usage.statistics.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/filetypes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/find.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/git_toolbox_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/git_toolbox_repos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/github-copilot.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/github-copilot.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/github.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/ide-features-trainer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/ide.general.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/ignore.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/images.support.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/javaRuleManager.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/jdk.table.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/keymapFlags.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/kotlin-wizard-data.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/laf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/mac/keymap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/mac/maven.wrapper.mapping.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/material_theme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/nodejs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/path.macros.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/print.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/profiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/profilerRunConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/project.default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/projectView.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/qodana.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/rainbow_brackets_lite.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/recentProjects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/runner.layout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/settingsSync.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/settingsSyncLocal.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/shared-indexes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/sonarlint.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/templates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/toStringTemplates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/toolWindowRegistration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/trusted-paths.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/ui.lnf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/updates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/vcs-inputs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/vim_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/vim_settings_local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/window.state.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/options/yiiguxing.translation.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugin_PCWMP.license" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/.ignore/lib/instrumented-idea-gitignore-4.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/.ignore/lib/searchableOptions-4.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Atom Material Icons/lib/aalto-xml-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Atom Material Icons/lib/common.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Atom Material Icons/lib/instrumented-a-file-icon-idea-93.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Atom Material Icons/lib/javassist-3.29.2-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Atom Material Icons/lib/jgoodies-common-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Atom Material Icons/lib/jgoodies-forms-1.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Atom Material Icons/lib/mxparser-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Atom Material Icons/lib/rider.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Atom Material Icons/lib/stax2-api-4.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Atom Material Icons/lib/xmlpull-1.1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Atom Material Icons/lib/xstream-1.4.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/DTOnator/lib/DTOnator.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Gradle Dependencies Helper/lib/GradleDependenciesHelperPlugin-1.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Gradle Dependencies Helper/lib/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Gradle Dependencies Helper/lib/kotlin-stdlib-1.3.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Gradle Dependencies Helper/lib/kotlin-stdlib-common-1.3.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Gradle Dependencies Helper/lib/kotlin-stdlib-jdk7-1.3.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Gradle Dependencies Helper/lib/kotlin-stdlib-jdk8-1.3.61.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Gradle Dependencies Helper/lib/searchableOptions-1.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/IdeaVim/lib/antlr4-runtime-4.10.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/IdeaVim/lib/instrumented-IdeaVIM-2.7.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/IdeaVim/lib/searchableOptions-2.7.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/IdeaVim/lib/src/IdeaVIM-2.7.5-src.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/IdeaVim/lib/vim-engine-2.7.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/JumpToLine/lib/JumpToLine.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/JumpToLine/lib/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/JumpToLine/lib/asm-9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/JumpToLine/lib/asm-analysis-9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/JumpToLine/lib/asm-commons-9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/JumpToLine/lib/asm-tree-9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/JumpToLine/lib/asm-util-9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/JumpToLine/lib/kotlin-stdlib-1.7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/JumpToLine/lib/kotlin-stdlib-common-1.7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/JumpToLine/lib/kotlin-stdlib-jdk7-1.7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/JumpToLine/lib/kotlin-stdlib-jdk8-1.7.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Key-Promoter-X/lib/annotations-24.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Key-Promoter-X/lib/instrumented-Key Promoter X-2023.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Material Theme UI Lite/lib/instrumented-material-theme-lite-22.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Material Theme UI Lite/lib/javassist-3.29.2-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Material Theme UI Lite/lib/jgoodies-common-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Material Theme UI Lite/lib/jgoodies-forms-1.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Material Theme UI Lite/lib/json-20230227.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Material Theme UI Lite/lib/mixpanel-java-1.5.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Material Theme UI Lite/lib/mxparser-1.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Material Theme UI Lite/lib/xmlpull-1.1.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/Material Theme UI Lite/lib/xstream-1.4.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/RestfulHelper/lib/instrumented-RestfulHelper-0.4.1-stable.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/RestfulHelper/lib/searchableOptions-0.4.1-stable.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/TranslationPlugin/lib/commons-dbutils-1.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/TranslationPlugin/lib/instrumented-TranslationPlugin-3.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/TranslationPlugin/lib/intellij-idea-compat-0.0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/TranslationPlugin/lib/jlayer-1.0.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/TranslationPlugin/lib/jsoup-1.16.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/TranslationPlugin/lib/mp3spi-1.9.5.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/TranslationPlugin/lib/searchableOptions-3.5.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/TranslationPlugin/lib/tritonus-share-0.3.7.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/WakaTime.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/asciidoctorj-2.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/asciidoctorj-api-2.5.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/asm-9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/asm-analysis-9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/asm-commons-9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/asm-tree-9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/asm-util-9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/backport9-1.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/commons-io-2.14.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/commons-lang3-3.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/commons-text-1.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/dirgra-0.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/instrumented-asciidoctor-intellij-plugin-0.40.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/invokebinder-1.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jcodings-1.0.58.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jcommander-1.82.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jffi-1.3.10-native.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jffi-1.3.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jitescript-0.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jnr-a64asm-1.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jnr-constants-0.10.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jnr-enxio-0.32.14.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jnr-ffi-2.2.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jnr-netdb-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jnr-posix-3.1.16.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jnr-unixsocket-0.38.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jnr-x86asm-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/joda-time-2.10.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/joni-2.1.48.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jruby-9.4.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jruby-base-9.4.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jruby-stdlib-9.4.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jsoup-1.14.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/jzlib-1.1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/markdown_to_asciidoc-1.1-p1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/options-1.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/parboiled-core-1.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/parboiled-java-1.4.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/pegdown-1.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/searchableOptions-0.40.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/sentry-6.31.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/asciidoctor-intellij-plugin/lib/snakeyaml-engine-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/NOTICE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/bin/copilot-agent-linux" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/bin/copilot-agent-macos" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/bin/copilot-agent-macos-arm64" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/bin/copilot-agent-win.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/agent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/agent.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/compiled/darwin/arm64/kerberos.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/compiled/darwin/x64/kerberos.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/compiled/linux/arm64/kerberos.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/compiled/linux/x64/kerberos.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/compiled/win32/x64/kerberos.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/crypt32.node" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/resources/cl100k/tokenizer_cushman002.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/resources/cl100k/vocab_cushman002.bpe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/tree-sitter-go.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/tree-sitter-javascript.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/tree-sitter-python.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/tree-sitter-ruby.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/tree-sitter-tsx.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/tree-sitter-typescript.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/copilot-agent/dist/tree-sitter.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/intellij-community-LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/annotations-3.0.1u2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/core.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/github-copilot-intellij-1.4.6.4092.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/jcip-annotations-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/jsr305-3.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/kotlin-stdlib-1.7.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/kotlin-stdlib-common-1.7.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/kotlin-stdlib-jdk7-1.7.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/kotlin-stdlib-jdk8-1.7.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/kotlinx-html-jvm-0.8.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/markdown-jvm-0.2.0.pre-55.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/plugin-ideavim.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/plugin-textmate.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/slf4j-api-2.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/github-copilot-intellij/lib/slf4j-simple-2.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/annotations-19.0.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/caffeine-3.1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/checker-qual-3.41.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/commons-compress-1.21.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/error_prone_annotations-2.23.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/failureaccess-1.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/gittoolbox-500.1.5+222.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/glob-0.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/guava-33.0.0-jre.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/jodd-core-5.3.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/jodd-util-6.2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/jsr305-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/kotlin-logging-1.7.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/kotlin-stdlib-common-1.3.70.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/metrics-core-4.2.23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/metrics-jmx-4.2.23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/module-222-obfuscated.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/module-223-obfuscated.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/module-231-obfuscated.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/module-233-obfuscated.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/module-api.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/module-config.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/snakeyaml-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/xodus-compress-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/xodus-entity-store-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/xodus-environment-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/xodus-openAPI-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/xodus-utils-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/gittoolbox/lib/xodus-vfs-2.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/google-java-format/lib/checker-qual-3.12.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/google-java-format/lib/error_prone_annotations-2.11.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/google-java-format/lib/failureaccess-1.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/google-java-format/lib/google-java-format-1.17.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/google-java-format/lib/guava-31.1-jre.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/google-java-format/lib/instrumented-gjfidea.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/google-java-format/lib/j2objc-annotations-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/google-java-format/lib/jsr305-3.0.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/google-java-format/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/google-java-format/lib/searchableOptions.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/idea-php-dotenv-plugin-2023.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/intellij-rainbow-brackets-lite/lib/instrumented-intellij-rainbow-brackets-lite-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/intellij-rainbow-brackets-lite/lib/searchableOptions-1.1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/js-liveEdit/lib/js-liveEdit.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/json-formatter/lib/commons-lang3-3.9.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/json-formatter/lib/jackson-annotations-2.10.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/json-formatter/lib/jackson-core-2.10.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/json-formatter/lib/jackson-databind-2.10.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/json-formatter/lib/json-formatter-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/json-formatter/lib/searchableOptions-1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/presentation-assistant/lib/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/presentation-assistant/lib/kotlin-stdlib-1.6.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/presentation-assistant/lib/kotlin-stdlib-common-1.6.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/presentation-assistant/lib/kotlin-stdlib-jdk7-1.6.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/presentation-assistant/lib/kotlin-stdlib-jdk8-1.6.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/presentation-assistant/lib/presentation-assistant-1.0.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/presentation-assistant/lib/searchableOptions-1.0.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/search-everywhere-docs/lib/search-everywhere-docs-1.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/search-everywhere-docs/lib/searchableOptions-1.0.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/annotations-13.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/clion-9.1.0.75538.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/common-9.1.0.75538.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/commons-lang-2.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/git-9.1.0.75538.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/instrumented-sonarlint-intellij-9.1.0.75538.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/kotlin-stdlib-1.8.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/kotlin-stdlib-common-1.8.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/kotlin-stdlib-jdk7-1.8.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/kotlin-stdlib-jdk8-1.8.10.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/rider-9.1.0.75538.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/searchableOptions-9.1.0.75538.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/lib/sonarlint-core-9.3.1.74774.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Cake.Scripting.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Cake.Scripting.Transport.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Dotnet.Script.DependencyModel.NuGet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Dotnet.Script.DependencyModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Humanizer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/ICSharpCode.Decompiler.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/McMaster.Extensions.CommandLineUtils.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/MediatR.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Build.Locator.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.AnalyzerUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.CSharp.Features.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.Elfie.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.ExternalAccess.OmniSharp.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.ExternalAccess.OmniSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.Features.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.Workspaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.DiaSymReader.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.DotNet.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Caching.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Caching.Memory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Configuration.Binder.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Configuration.CommandLine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Configuration.EnvironmentVariables.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Configuration.FileExtensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Configuration.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.FileProviders.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.FileProviders.Physical.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.FileSystemGlobbing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Logging.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Logging.Console.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Options.ConfigurationExtensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Options.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Extensions.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.TestPlatform.CommunicationUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.TestPlatform.CoreUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.TestPlatform.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.VisualStudio.TestPlatform.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.VisualStudio.Threading.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.VisualStudio.Validation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Microsoft.Win32.Registry.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Nerdbank.Streams.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/NuGet.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/NuGet.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/NuGet.DependencyResolver.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/NuGet.Frameworks.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/NuGet.LibraryModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/NuGet.Packaging.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/NuGet.Packaging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/NuGet.ProjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/NuGet.Protocol.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/NuGet.Versioning.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Abstractions.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Cake.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Cake.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.DotNetTest.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.DotNetTest.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Extensions.JsonRpc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Extensions.LanguageProtocol.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Extensions.LanguageServer.Shared.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Extensions.LanguageServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Host.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Host.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.LanguageServerProtocol.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.LanguageServerProtocol.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.MSBuild.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.MSBuild.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Roslyn.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Roslyn.CSharp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Roslyn.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Roslyn.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Script.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Script.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Shared.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Shared.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Stdio.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.Stdio.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/OmniSharp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/SQLitePCLRaw.batteries_v2.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/SQLitePCLRaw.core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/SQLitePCLRaw.provider.e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Buffers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Collections.Immutable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Composition.AttributedModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Composition.Convention.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Composition.Hosting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Composition.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Composition.TypedParts.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.IO.Pipelines.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Memory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Reactive.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Reflection.DispatchProxy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Reflection.Metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Security.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Security.Principal.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Text.Encoding.CodePages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Text.Encodings.Web.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Text.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Threading.Channels.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Threading.Tasks.Dataflow.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.Threading.Tasks.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/System.ValueTuple.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/mono/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Cake.Scripting.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Cake.Scripting.Transport.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Dotnet.Script.DependencyModel.NuGet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Dotnet.Script.DependencyModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Humanizer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/ICSharpCode.Decompiler.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/McMaster.Extensions.CommandLineUtils.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/MediatR.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Build.Locator.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.AnalyzerUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.CSharp.Features.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.Elfie.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.ExternalAccess.OmniSharp.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.ExternalAccess.OmniSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.Features.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.Workspaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.DiaSymReader.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.DotNet.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Caching.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Caching.Memory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Configuration.Binder.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Configuration.CommandLine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Configuration.EnvironmentVariables.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Configuration.FileExtensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Configuration.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.FileProviders.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.FileProviders.Physical.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.FileSystemGlobbing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Logging.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Logging.Console.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Options.ConfigurationExtensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Options.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.Extensions.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.TestPlatform.CommunicationUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.TestPlatform.CoreUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.TestPlatform.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.VisualStudio.TestPlatform.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.VisualStudio.Threading.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Microsoft.VisualStudio.Validation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Nerdbank.Streams.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Abstractions.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Cake.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Cake.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.DotNetTest.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.DotNetTest.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Extensions.JsonRpc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Extensions.LanguageProtocol.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Extensions.LanguageServer.Shared.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Extensions.LanguageServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Host.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Host.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.LanguageServerProtocol.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.LanguageServerProtocol.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.MSBuild.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.MSBuild.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Roslyn.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Roslyn.CSharp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Roslyn.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Roslyn.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Script.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Script.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Shared.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Shared.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Stdio.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.Stdio.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.dll.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/OmniSharp.runtimeconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.ComponentModel.Composition.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.Composition.AttributedModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.Composition.Convention.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.Composition.Hosting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.Composition.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.Composition.TypedParts.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.IO.Pipelines.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.Reactive.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.Reflection.Metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.Security.Cryptography.Pkcs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/System.Security.Permissions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/Microsoft.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/Microsoft.TestPlatform.CoreUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/Microsoft.TestPlatform.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/Microsoft.VisualBasic.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/Microsoft.VisualBasic.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/Microsoft.Win32.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/Microsoft.Win32.Registry.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.AppContext.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Buffers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Collections.Concurrent.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Collections.Immutable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Collections.NonGeneric.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Collections.Specialized.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Collections.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.ComponentModel.Annotations.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.ComponentModel.Composition.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.ComponentModel.DataAnnotations.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.ComponentModel.EventBasedAsync.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.ComponentModel.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.ComponentModel.TypeConverter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.ComponentModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Console.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Data.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Data.DataSetExtensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Diagnostics.Contracts.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Diagnostics.Debug.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Diagnostics.FileVersionInfo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Diagnostics.Process.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Diagnostics.StackTrace.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Diagnostics.TextWriterTraceListener.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Diagnostics.Tools.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Diagnostics.TraceSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Diagnostics.Tracing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Drawing.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Drawing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Dynamic.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Formats.Asn1.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Globalization.Calendars.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Globalization.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Globalization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.Compression.Brotli.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.Compression.FileSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.Compression.ZipFile.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.Compression.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.FileSystem.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.FileSystem.DriveInfo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.FileSystem.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.FileSystem.Watcher.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.FileSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.IsolatedStorage.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.MemoryMappedFiles.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.Pipes.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.Pipes.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.UnmanagedMemoryStream.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.IO.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Linq.Expressions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Linq.Parallel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Linq.Queryable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Linq.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Memory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.Http.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.Http.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.HttpListener.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.Mail.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.NameResolution.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.NetworkInformation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.Ping.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.Requests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.Security.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.ServicePoint.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.Sockets.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.WebClient.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.WebHeaderCollection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.WebProxy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.WebSockets.Client.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.WebSockets.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Net.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Numerics.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.ObjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Reflection.DispatchProxy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Reflection.Emit.ILGeneration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Reflection.Emit.Lightweight.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Reflection.Emit.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Reflection.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Reflection.Metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Reflection.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Reflection.TypeExtensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Reflection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Resources.Reader.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Resources.ResourceManager.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Resources.Writer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.CompilerServices.VisualC.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.Handles.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.InteropServices.RuntimeInformation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.InteropServices.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.Intrinsics.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.Loader.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.Numerics.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.Serialization.Formatters.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.Serialization.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.Serialization.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.Serialization.Xml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.Serialization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Claims.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Cryptography.Algorithms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Cryptography.Cng.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Cryptography.Csp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Cryptography.Encoding.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Cryptography.OpenSsl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Cryptography.Pkcs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Cryptography.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Cryptography.X509Certificates.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Permissions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Principal.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.Principal.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.SecureString.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Security.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.ServiceModel.Web.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.ServiceProcess.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Text.Encoding.CodePages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Text.Encoding.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Text.Encoding.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Text.Encodings.Web.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Text.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Text.RegularExpressions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Threading.Channels.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Threading.Overlapped.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Threading.Tasks.Dataflow.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Threading.Tasks.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Threading.Tasks.Parallel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Threading.Tasks.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Threading.Thread.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Threading.ThreadPool.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Threading.Timer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Threading.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Transactions.Local.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Transactions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.ValueTuple.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Web.HttpUtility.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Web.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Xml.Linq.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Xml.ReaderWriter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Xml.Serialization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Xml.XDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Xml.XPath.XDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Xml.XPath.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Xml.XmlDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Xml.XmlSerializer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.Xml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/System.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/WindowsBase.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/mscorlib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/refs/netstandard.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/runtimes/win/lib/netcoreapp3.0/System.Security.Cryptography.Pkcs.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/net6/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Cake.Scripting.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Cake.Scripting.Transport.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Dotnet.Script.DependencyModel.NuGet.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Dotnet.Script.DependencyModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Humanizer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/ICSharpCode.Decompiler.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/McMaster.Extensions.CommandLineUtils.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/MediatR.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Bcl.AsyncInterfaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Build.Locator.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.AnalyzerUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.CSharp.Features.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.CSharp.Workspaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.Elfie.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.ExternalAccess.OmniSharp.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.ExternalAccess.OmniSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.Features.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.Workspaces.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.DiaSymReader.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.DotNet.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Caching.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Caching.Memory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Configuration.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Configuration.Binder.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Configuration.CommandLine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Configuration.EnvironmentVariables.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Configuration.FileExtensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Configuration.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.DependencyInjection.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.DependencyInjection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.FileProviders.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.FileProviders.Physical.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.FileSystemGlobbing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Logging.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Logging.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Logging.Console.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Logging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Options.ConfigurationExtensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Options.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Extensions.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.TestPlatform.CommunicationUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.TestPlatform.CoreUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.TestPlatform.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.VisualStudio.TestPlatform.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.VisualStudio.Threading.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.VisualStudio.Validation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Microsoft.Win32.Registry.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Nerdbank.Streams.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/NuGet.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/NuGet.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/NuGet.DependencyResolver.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/NuGet.Frameworks.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/NuGet.LibraryModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/NuGet.Packaging.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/NuGet.Packaging.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/NuGet.ProjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/NuGet.Protocol.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/NuGet.Versioning.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Abstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Abstractions.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Cake.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Cake.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.DotNetTest.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.DotNetTest.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Extensions.JsonRpc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Extensions.LanguageProtocol.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Extensions.LanguageServer.Shared.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Extensions.LanguageServer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Host.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Host.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.LanguageServerProtocol.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.LanguageServerProtocol.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.MSBuild.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.MSBuild.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Roslyn.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Roslyn.CSharp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Roslyn.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Roslyn.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Script.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Script.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Shared.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Shared.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Stdio.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.Stdio.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.deps.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.exe.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/OmniSharp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Buffers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Collections.Immutable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Composition.AttributedModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Composition.Convention.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Composition.Hosting.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Composition.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Composition.TypedParts.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.IO.Pipelines.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Memory.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Reactive.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Reflection.DispatchProxy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Reflection.Metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Runtime.CompilerServices.Unsafe.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Security.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Security.Principal.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Text.Encoding.CodePages.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Text.Encodings.Web.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Text.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Threading.Channels.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Threading.Tasks.Dataflow.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.Threading.Tasks.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/System.ValueTuple.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/license.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/Microsoft.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/Microsoft.TestPlatform.CoreUtilities.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/Microsoft.TestPlatform.PlatformAbstractions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/Microsoft.Win32.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/Microsoft.Win32.Registry.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.AppContext.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Buffers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Collections.Concurrent.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Collections.NonGeneric.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Collections.Specialized.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Collections.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ComponentModel.Annotations.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ComponentModel.Composition.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ComponentModel.DataAnnotations.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ComponentModel.EventBasedAsync.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ComponentModel.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ComponentModel.TypeConverter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ComponentModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Console.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Data.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Data.DataSetExtensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Diagnostics.Contracts.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Diagnostics.Debug.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Diagnostics.FileVersionInfo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Diagnostics.Process.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Diagnostics.StackTrace.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Diagnostics.TextWriterTraceListener.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Diagnostics.Tools.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Diagnostics.TraceSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Drawing.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Drawing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Dynamic.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Globalization.Calendars.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Globalization.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Globalization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.Compression.FileSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.Compression.ZipFile.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.Compression.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.FileSystem.DriveInfo.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.FileSystem.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.FileSystem.Watcher.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.FileSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.IsolatedStorage.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.MemoryMappedFiles.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.Pipes.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.UnmanagedMemoryStream.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IO.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.IdentityModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Linq.Expressions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Linq.Parallel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Linq.Queryable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Linq.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.Http.Rtc.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.Http.WebRequest.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.Http.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.NameResolution.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.NetworkInformation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.Ping.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.Requests.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.Security.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.Sockets.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.WebHeaderCollection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.WebSockets.Client.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Net.WebSockets.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Numerics.Vectors.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Numerics.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ObjectModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Reflection.DispatchProxy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Reflection.Emit.ILGeneration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Reflection.Emit.Lightweight.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Reflection.Emit.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Reflection.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Reflection.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Reflection.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Resources.Reader.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Resources.ResourceManager.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Resources.Writer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.CompilerServices.VisualC.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.Handles.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.InteropServices.RuntimeInformation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.InteropServices.WindowsRuntime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.InteropServices.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.Numerics.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.Serialization.Formatters.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.Serialization.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.Serialization.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.Serialization.Xml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.Serialization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Security.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Security.Claims.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Security.Cryptography.Algorithms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Security.Cryptography.Csp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Security.Cryptography.Encoding.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Security.Cryptography.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Security.Cryptography.X509Certificates.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Security.Principal.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Security.Principal.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Security.SecureString.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Security.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ServiceModel.Duplex.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ServiceModel.Http.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ServiceModel.NetTcp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ServiceModel.Primitives.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ServiceModel.Security.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ServiceModel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Text.Encoding.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Text.Encoding.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Text.RegularExpressions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Threading.Overlapped.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Threading.Tasks.Parallel.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Threading.Tasks.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Threading.Thread.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Threading.ThreadPool.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Threading.Timer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Threading.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.ValueTuple.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Windows.Forms.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Windows.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Xml.Linq.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Xml.ReaderWriter.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Xml.XDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Xml.XPath.XDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Xml.XPath.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Xml.XmlDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Xml.XmlSerializer.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.Xml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/System.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/WindowsBase.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/mscorlib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/refs/netstandard.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/runtimes/win-arm/native/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/runtimes/win-x64/native/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/omnisharp/win/runtimes/win-x86/native/e_sqlite3.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-cfamily-plugin-6.49.0.62722.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-go-plugin-1.15.0.4655.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-html-plugin-3.9.0.3600.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-iac-plugin-1.21.0.5999.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-java-plugin-7.24.0.32100.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-javascript-plugin-10.6.0.22520.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-kotlin-plugin-2.17.0.2902.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-php-plugin-3.32.0.10180.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-python-plugin-4.8.0.12420.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-ruby-plugin-1.15.0.4655.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-text-plugin-2.4.0.2120.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonar-xml-plugin-2.10.0.4108.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/plugins/sonarlint-intellij/plugins/sonarlint-omnisharp-plugin-1.13.0.76953.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/scratches/generated-requests.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/settingsSync" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/cafekiosk.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/cafekiosk.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/core.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/core.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_admin_rs.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_admin_rs.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_c2c.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_c2c.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_carrier_rs.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_carrier_rs.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_carrier_sch.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_carrier_sch.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_customs_rs.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_customs_rs.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_library_common.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_library_common.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_mms_rs.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_mms_rs.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_oauth2.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_oauth2.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_oms_rs.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_oms_rs.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_payment_rs.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_payment_rs.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_portal_ui.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_portal_ui.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_settle_rs.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_settle_rs.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_statistics_rs.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_statistics_rs.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_wing_ui.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_wing_ui.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_wms_rs.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/deleo_wms_rs.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/helm_chart.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/helm_chart.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/keycloak.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/keycloak.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/learning_test.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/learning_test.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/learning_test_for_company.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/learning_test_for_company.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/platform_dev.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/platform_dev.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/spring_core_principle_with_yhkim.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/spring_core_principle_with_yhkim.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/spring_core_with_yhkim.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/spring_core_with_yhkim.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/spring_mvc_part_two_with_yhkim.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/spring_mvc_part_two_with_yhkim.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/spring_playground.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/spring_playground.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/spring_template.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/spring_template.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/today_i_learn.contexts.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/tasks/today_i_learn.tasks.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/templates/custom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/updatedBrokenPlugins.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2QGgK61TpZOP27oPbIrKb0M5Sxh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2QGodh0KWvzRfsueUQlz0sYbc4a.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2QGpuubFtBxPrk3rCYsBxp9ADbD.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2QaBzmHRWLFTUIvc3RZ4m2yc6nN.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2QjWmOw4swixCsB5bpata8x4fg3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2RK8NaB5RctLMIBeKuo0z6RhT7u.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2SKUHva6styfwxA3VDt9xO4OtC7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2Sc3L2Tx22uaNAyfh6trfxgfRIE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2Sofpe5lgYwmu7aiKgohqiNe3mx.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2T2qW0Gp5eeluGiglQOVoJY2fd4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2TS98D4HQvMsNV0JMdW7wFqR4oy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2TeI2bWPzb832qVaFrL9Icb3i4V.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2U99FdVCbWz4OJADDLcaQNjQcBo.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2VFZwIk26kCnB4iMc8Dfo484bfp.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2VsuHqEaFHXpHIDEPEueCS2caBG.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2XT6VhMHB4Qx17ihxkO68nMFYD3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2XpTYIAQ57Dwl7vlNgEhrjI188l.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2XpymU18XgZsFdYrE689jKZWDJj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2YVw2yZpmlYxR46eXc9jGmurTol.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2YbpxqvEwLjvENVke6EhjgaCQhH.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2ZHq0tbCxA1vup9xhsqseOGj9Qu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2ZwmSO8jaobeIv4f81AiWiawjmz.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2aQQOrqViEKHfw5On9xTCUaEiwt.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2aTjWwWONxv3vIjMh1TSBObj4zh.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2aXKvfiGv67SGCdvb2rceg4669k.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2ackOE90cUhjVTCBRmZmGACWFGu.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2aclh9QMH1BASU4Cu0Z5VIWTgQ4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntelliJIdea/workspace/2acm9eEp0J3MC91pOkAkYdSXGgE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="dev" />
+                    <option name="lastUsedInstant" value="1714484428" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="aaa" />
+                    <option name="lastUsedInstant" value="1714484413" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2fp3YkEAESqft1fwUZy7qBUlczi" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showModules" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/jinsunghwang/Project/intellij-ide-settings",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f449516e-2241-4b07-ac26-8af0c46c193e" name="Changes" comment="" />
+      <created>1714484242120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1714484242120</updated>
+      <workItem from="1714484243575" duration="1794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

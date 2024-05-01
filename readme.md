@@ -3,6 +3,7 @@
 내가 사용하는 intellij ide settings를 백업해두는 저장소이다. </br>
 intellij에서 설정이 꼬였을때 settings history가 없어서 복구할 수 없다. </br>
 하여 intellij ide settings를 이 저장소에 백업해둔다. </br>
+추가적으로 intellij ide의 setting과 plugin까지 모두 있는 파일은 네이버 mybox의 IntelliJIdeaSettings폴더에 백업해두었다. </br>
 </br>
 평상시에는 intellij 자체 settings sync 기능을 사용한다. 
 
